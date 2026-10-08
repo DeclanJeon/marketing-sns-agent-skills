@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.1",
+  "campaign_id": "pending",
+  "brief_version": 1,
+  "language": "ko",
+  "timezone": "Asia/Seoul",
+  "goal": {
+    "action": null,
+    "audience": null,
+    "destination_url": null
+  },
+  "budget": null,
+  "time_budget": null,
+  "resources": [],
+  "claim_ledger": [],
+  "content_atoms": [],
+  "channel_decisions": [],
+  "jobs": [],
+  "posts": [],
+  "calendar": [],
+  "experiments": [],
+  "qa": [],
+  "permissions": {
+    "publish": false,
+    "message": false,
+    "paid_ads": false,
+    "scope": []
+  },
+  "assumptions": [],
+  "open_questions": [],
+  "delivery_stage": "bootstrap",
+  "selected_channels": []
+}

@@ -1,0 +1,68 @@
+{
+  "channel_families": [
+    "community",
+    "instagram",
+    "linkedin",
+    "search",
+    "threads",
+    "tiktok",
+    "x",
+    "youtube"
+  ],
+  "recipes": [
+    {
+      "recipe_id": "social_campaign",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "cash_sale",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "product_launch",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "developer_launch",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "b2b_leads",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "brand_awareness",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "search_growth",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "partnership_launch",
+      "valid_channel_variants": 255
+    },
+    {
+      "recipe_id": "retention",
+      "valid_channel_variants": 1
+    },
+    {
+      "recipe_id": "cx_recovery",
+      "valid_channel_variants": 1
+    },
+    {
+      "recipe_id": "pricing",
+      "valid_channel_variants": 1
+    },
+    {
+      "recipe_id": "measurement",
+      "valid_channel_variants": 1
+    }
+  ],
+  "valid_recipe_channel_variants": 2044,
+  "unique_worker_sets": 2044,
+  "invalid_variants": 0,
+  "invalid_examples": [],
+  "optional_stage_combinations_included": false,
+  "note": "Finite declared recipes × nonempty channel subsets, not all worker subsets, content variants or proven synergies. Budget, permissions, actual fit and tools still require review."
+}

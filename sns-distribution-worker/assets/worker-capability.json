@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "skill_name": "sns-distribution-worker",
+  "role": "worker",
+  "provides": [
+    "distribution_plan"
+  ],
+  "requires": [
+    "brief",
+    "evidence_ledger",
+    "channel_packages"
+  ],
+  "phase": 80,
+  "channels": [],
+  "selection_tags": [
+    "distribution_plan"
+  ],
+  "conflicts_with": [],
+  "estimated_minutes": null,
+  "cost_basis": "unknown",
+  "external_actions": "none_without_task_scope",
+  "version": "2.0"
+}

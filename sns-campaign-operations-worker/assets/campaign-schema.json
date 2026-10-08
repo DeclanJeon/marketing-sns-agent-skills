@@ -1,0 +1,669 @@
+{
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "enum": [
+        "1.1"
+      ]
+    },
+    "campaign_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "brief_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "language": {
+      "type": "string",
+      "minLength": 1
+    },
+    "timezone": {
+      "type": "string",
+      "minLength": 1
+    },
+    "delivery_stage": {
+      "type": "string",
+      "enum": [
+        "bootstrap",
+        "draft",
+        "final"
+      ]
+    },
+    "goal": {
+      "type": "object",
+      "properties": {
+        "action": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "audience": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "destination_url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "action",
+        "audience",
+        "destination_url"
+      ]
+    },
+    "budget": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "time_budget": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "resources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "resource_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "access_status": {
+            "type": "string",
+            "enum": [
+              "observed",
+              "user_reported",
+              "unavailable"
+            ]
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "resource_id",
+          "description",
+          "access_status",
+          "locator"
+        ]
+      }
+    },
+    "claim_ledger": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "claim_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "text": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "verified",
+              "user_reported",
+              "hypothesis",
+              "unknown"
+            ]
+          },
+          "conditions": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "claim_id",
+          "text",
+          "source_id",
+          "locator",
+          "status",
+          "conditions"
+        ]
+      }
+    },
+    "content_atoms": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "atom_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "point": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "atom_id",
+          "point",
+          "evidence_ids"
+        ]
+      }
+    },
+    "selected_channels": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "channel_decisions": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "jobs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "job_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "worker_name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "brief_version": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "done",
+              "partial",
+              "blocked"
+            ]
+          },
+          "deliverables": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "assumptions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "open_questions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "next_owner": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "job_id",
+          "worker_name",
+          "brief_version",
+          "status",
+          "deliverables",
+          "evidence_ids",
+          "assumptions",
+          "open_questions",
+          "next_owner"
+        ]
+      }
+    },
+    "posts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "content_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "revision": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "channel": {
+            "type": "string",
+            "minLength": 1
+          },
+          "surface": {
+            "type": "string",
+            "minLength": 1
+          },
+          "audience": {
+            "type": "string",
+            "minLength": 1
+          },
+          "goal": {
+            "type": "string",
+            "minLength": 1
+          },
+          "angle": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_atom_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "claim_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "format": {
+            "type": "string",
+            "minLength": 1
+          },
+          "hook": {
+            "type": "string",
+            "minLength": 1
+          },
+          "body_or_script": {
+            "type": "string",
+            "minLength": 1
+          },
+          "caption_or_description": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "title_cover": {
+            "type": "string",
+            "minLength": 1
+          },
+          "asset_specs": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "kind": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "description": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "available",
+                    "requested",
+                    "not_applicable"
+                  ]
+                }
+              },
+              "required": [
+                "kind",
+                "description",
+                "status"
+              ]
+            }
+          },
+          "alt_text_or_captions": {
+            "type": "string",
+            "minLength": 1
+          },
+          "cta": {
+            "type": "string",
+            "minLength": 1
+          },
+          "link_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "supplied_url": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "utm": {
+            "type": [
+              "object",
+              "null"
+            ]
+          },
+          "publish_at": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "timezone": {
+            "type": "string",
+            "minLength": 1
+          },
+          "promotion_actions": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "primary_kpi": {
+            "type": "string",
+            "minLength": 1
+          },
+          "diagnostic_metrics": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "experiment": {
+            "type": "string",
+            "minLength": 1
+          },
+          "qa_status": {
+            "type": "string",
+            "enum": [
+              "pending",
+              "passed",
+              "failed"
+            ]
+          },
+          "length_check": {
+            "type": "object",
+            "properties": {
+              "status": {
+                "type": "string",
+                "enum": [
+                  "passed",
+                  "failed",
+                  "unverified",
+                  "not_applicable"
+                ]
+              },
+              "evidence": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "status",
+              "evidence"
+            ]
+          },
+          "feature_checks": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "status": {
+                  "type": "string",
+                  "enum": [
+                    "confirmed",
+                    "unverified",
+                    "not_applicable"
+                  ]
+                },
+                "evidence": {
+                  "type": [
+                    "string",
+                    "null"
+                  ]
+                }
+              },
+              "required": [
+                "name",
+                "status",
+                "evidence"
+              ]
+            }
+          },
+          "publication_status": {
+            "type": "string",
+            "enum": [
+              "draft",
+              "reviewed",
+              "ready",
+              "scheduled",
+              "published"
+            ]
+          },
+          "execution_receipt": {
+            "type": [
+              "object",
+              "null"
+            ]
+          },
+          "approval": {
+            "type": [
+              "object",
+              "null"
+            ]
+          }
+        },
+        "required": [
+          "content_id",
+          "revision",
+          "channel",
+          "surface",
+          "audience",
+          "goal",
+          "angle",
+          "source_atom_ids",
+          "claim_ids",
+          "format",
+          "hook",
+          "body_or_script",
+          "caption_or_description",
+          "title_cover",
+          "asset_specs",
+          "alt_text_or_captions",
+          "cta",
+          "link_path",
+          "supplied_url",
+          "utm",
+          "publish_at",
+          "timezone",
+          "promotion_actions",
+          "primary_kpi",
+          "diagnostic_metrics",
+          "experiment",
+          "qa_status",
+          "length_check",
+          "feature_checks",
+          "publication_status",
+          "execution_receipt",
+          "approval"
+        ]
+      }
+    },
+    "calendar": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "experiments": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "qa": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "permissions": {
+      "type": "object",
+      "properties": {
+        "publish": {
+          "type": "boolean"
+        },
+        "message": {
+          "type": "boolean"
+        },
+        "paid_ads": {
+          "type": "boolean"
+        },
+        "scope": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "action": {
+                "type": "string",
+                "enum": [
+                  "publish",
+                  "message",
+                  "paid_ads"
+                ]
+              },
+              "account_id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "channel": {
+                "type": "string",
+                "minLength": 1
+              },
+              "content_id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "revision": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "publish_at": {
+                "type": [
+                  "string",
+                  "null"
+                ]
+              }
+            },
+            "required": [
+              "action",
+              "account_id",
+              "channel",
+              "content_id",
+              "revision",
+              "publish_at"
+            ]
+          }
+        }
+      },
+      "required": [
+        "publish",
+        "message",
+        "paid_ads",
+        "scope"
+      ]
+    },
+    "assumptions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "open_questions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  },
+  "required": [
+    "schema_version",
+    "campaign_id",
+    "brief_version",
+    "language",
+    "timezone",
+    "delivery_stage",
+    "goal",
+    "budget",
+    "time_budget",
+    "resources",
+    "claim_ledger",
+    "content_atoms",
+    "selected_channels",
+    "channel_decisions",
+    "jobs",
+    "posts",
+    "calendar",
+    "experiments",
+    "qa",
+    "permissions",
+    "assumptions",
+    "open_questions"
+  ],
+  "title": "SNS campaign package 1.1",
+  "description": "Bundled data contract; validator supports type, properties, required, items, enum, minLength and minimum."
+}

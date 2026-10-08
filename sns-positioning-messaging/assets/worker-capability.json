@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "skill_name": "sns-positioning-messaging",
+  "role": "worker",
+  "provides": [
+    "message_strategy"
+  ],
+  "requires": [
+    "brief",
+    "evidence_ledger",
+    "content_atoms"
+  ],
+  "phase": 50,
+  "channels": [],
+  "selection_tags": [
+    "message_strategy"
+  ],
+  "conflicts_with": [],
+  "estimated_minutes": null,
+  "cost_basis": "unknown",
+  "external_actions": "none_without_task_scope",
+  "version": "2.0"
+}

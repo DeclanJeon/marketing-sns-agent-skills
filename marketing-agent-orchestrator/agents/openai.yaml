@@ -1,0 +1,14 @@
+interface:
+  display_name: 마케팅·SNS 통합 오케스트레이터
+  short_description: 확장 가능한 워커 조합으로 마케팅·채널 제작·배포·성과를 연결합니다
+  default_prompt: $marketing-agent-orchestrator로 목표에 맞는 워커를 조합해 마케팅부터 SNS 제작·배포까지
+    설계해줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

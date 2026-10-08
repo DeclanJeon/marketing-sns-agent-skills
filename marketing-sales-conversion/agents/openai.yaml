@@ -1,0 +1,14 @@
+interface:
+  display_name: 판매·전환 설계
+  short_description: 고객 근거로 판매·전환 설계을 수행하고 실행안과 검증 기준까지 완성합니다
+  default_prompt: $marketing-sales-conversion 스킬로 제공 자료를 분석하고 실행 가능한 판매·전환 설계 산출물을
+    만들어줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

@@ -1,0 +1,23 @@
+{
+  "schema_version": "2.0",
+  "skill_name": "sns-channel-strategist",
+  "role": "worker",
+  "provides": [
+    "channel_strategy"
+  ],
+  "requires": [
+    "brief",
+    "evidence_ledger",
+    "message_strategy"
+  ],
+  "phase": 60,
+  "channels": [],
+  "selection_tags": [
+    "channel_strategy"
+  ],
+  "conflicts_with": [],
+  "estimated_minutes": null,
+  "cost_basis": "unknown",
+  "external_actions": "none_without_task_scope",
+  "version": "2.0"
+}

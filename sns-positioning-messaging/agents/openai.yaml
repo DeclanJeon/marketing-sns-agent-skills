@@ -1,0 +1,14 @@
+interface:
+  display_name: SNS 포지셔닝·메시지 Worker
+  short_description: 리소스 근거로 채널 전략과 완성 게시물을 연결하는 SNS 에이전트
+  default_prompt: Use $sns-positioning-messaging to turn the supplied resource into
+    its assigned SNS promotion deliverables.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

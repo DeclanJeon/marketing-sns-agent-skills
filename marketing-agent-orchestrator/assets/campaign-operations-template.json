@@ -1,0 +1,59 @@
+{
+  "campaign_id": "",
+  "objective": "",
+  "owner": "",
+  "timeline": {
+    "start": "",
+    "end": ""
+  },
+  "authorized_scope": {
+    "request_reference": "",
+    "accounts": [],
+    "content": "",
+    "budget": null,
+    "currency": "KRW",
+    "allowed_changes": []
+  },
+  "tracking": {
+    "conversion_event": "",
+    "attribution_window": "",
+    "utm_campaign": "",
+    "consent_requirements": [],
+    "tracking_limitations": []
+  },
+  "budget": {
+    "total_cap": null,
+    "daily_cap": null,
+    "spent": null,
+    "stop_conditions": []
+  },
+  "operations": [],
+  "operation_fields": [
+    "operation_key",
+    "channel",
+    "account",
+    "content_hash",
+    "intended_time",
+    "external_id",
+    "result_url",
+    "checked_at",
+    "error_code",
+    "reconciliation_notes",
+    "preparation_status",
+    "execution_status",
+    "blockers"
+  ],
+  "crm": {
+    "trigger": "",
+    "audience_rule": "",
+    "frequency_limit": null,
+    "opt_out_handling": "",
+    "stop_conditions": []
+  },
+  "claims": [],
+  "release_checks": [],
+  "decisions": [],
+  "preparation_status": "draft",
+  "execution_status": "not_started",
+  "blockers": []
+}

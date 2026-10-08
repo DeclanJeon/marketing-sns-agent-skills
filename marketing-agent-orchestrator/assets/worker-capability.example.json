@@ -1,0 +1,22 @@
+{
+  "schema_version": "2.0",
+  "skill_name": "example-worker",
+  "role": "worker",
+  "provides": [
+    "example_capability"
+  ],
+  "requires": [
+    "brief",
+    "evidence_ledger"
+  ],
+  "phase": 40,
+  "channels": [],
+  "selection_tags": [
+    "example"
+  ],
+  "conflicts_with": [],
+  "estimated_minutes": null,
+  "cost_basis": "unknown",
+  "external_actions": "none_without_task_scope",
+  "version": "1.0"
+}

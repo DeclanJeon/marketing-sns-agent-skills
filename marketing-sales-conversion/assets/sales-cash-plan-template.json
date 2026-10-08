@@ -1,0 +1,60 @@
+{
+  "task_id": "",
+  "primary_goal": "",
+  "cash_deadline_day": null,
+  "product_count": null,
+  "sku_count": null,
+  "inventory_units": null,
+  "inventory_paid": null,
+  "available_cash": null,
+  "upfront_spend_cap": null,
+  "facts": [],
+  "customer_fit": {
+    "fits": [],
+    "does_not_fit": [],
+    "evidence_ids": []
+  },
+  "candidate_channels": [],
+  "channel_fields": [
+    "name",
+    "buyer_access_evidence",
+    "purchase_path",
+    "upfront_costs",
+    "unit_contribution",
+    "settlement_day",
+    "fulfillment_capacity",
+    "unknowns",
+    "experiment",
+    "stop_conditions"
+  ],
+  "offer": {
+    "price": null,
+    "quantity": null,
+    "included": [],
+    "delivery_terms": "",
+    "returns_terms": "",
+    "cta": ""
+  },
+  "lead_records": [],
+  "lead_fields": [
+    "lead_id",
+    "status",
+    "channel",
+    "order_id",
+    "next_action",
+    "due_day",
+    "payment_day",
+    "settlement_day",
+    "actual_receipt_day",
+    "objection_reason"
+  ],
+  "experiment": {
+    "period": "",
+    "order_target": null,
+    "target_basis": "",
+    "spend_cap": null,
+    "stop_conditions": []
+  },
+  "prepared_materials": [],
+  "execution_status": "not_started"
+}

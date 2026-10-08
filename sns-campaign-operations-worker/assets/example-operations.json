@@ -1,0 +1,42 @@
+{
+  "operations_version": "1.0",
+  "campaign_id": "example-csv-01",
+  "production_tasks": [
+    {
+      "task_id": "T1",
+      "content_id": "P4",
+      "revision": 1,
+      "brief_version": 1,
+      "owner_skill": "orchestrating-video-preproduction",
+      "status": "planned",
+      "asset_ids": [
+        "V1"
+      ],
+      "source_atom_ids": [
+        "A1"
+      ],
+      "claim_ids": [
+        "C1"
+      ],
+      "locked_fields": [
+        "CSV input, duplicate-row removal, CSV export; no verified speed/accuracy/OS"
+      ],
+      "deliverable": "30-second script and video production brief; rendering not authorized",
+      "budget_limit": "not supplied; do not initiate paid generation",
+      "acceptance": "Actual video required only after authorized production; no invented UI/results"
+    }
+  ],
+  "assets": [
+    {
+      "asset_id": "V1",
+      "content_id": "P4",
+      "revision": 1,
+      "status": "requested",
+      "path": null,
+      "sha256": null
+    }
+  ],
+  "preflight": [],
+  "events": [],
+  "change_requests": []
+}

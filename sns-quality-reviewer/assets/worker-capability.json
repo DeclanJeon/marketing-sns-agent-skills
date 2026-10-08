@@ -1,0 +1,24 @@
+{
+  "schema_version": "2.0",
+  "skill_name": "sns-quality-reviewer",
+  "role": "worker",
+  "provides": [
+    "channel_quality"
+  ],
+  "requires": [
+    "brief",
+    "evidence_ledger",
+    "channel_packages",
+    "semantic_review"
+  ],
+  "phase": 100,
+  "channels": [],
+  "selection_tags": [
+    "channel_quality"
+  ],
+  "conflicts_with": [],
+  "estimated_minutes": null,
+  "cost_basis": "unknown",
+  "external_actions": "none_without_task_scope",
+  "version": "2.0"
+}

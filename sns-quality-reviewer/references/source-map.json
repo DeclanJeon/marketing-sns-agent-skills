@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "B02",
+    "title": "Building a StoryBrand 2.0",
+    "author": "Donald Miller",
+    "uploaded_filename": "02-Building-a-StoryBrand-2.0-Clarify-Your-Message-So-Customers-Will-Listen-Donald-Miller-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "092e6819401212933e9f330e542c568c6ec91307790c4337a593adfcd9297b36",
+    "locator": "line 269; search: transitional call to action",
+    "operational_principle": "고객의 목표·문제·가이드·실행 계획·행동·실패 회피·성공으로 메시지 명료화"
+  },
+  {
+    "source_id": "B07",
+    "title": "Made to Stick",
+    "author": "Chip Heath, Dan Heath",
+    "uploaded_filename": "07-Made-to-Stick-Why-Some-Ideas-Survive-and-Others-Die-Chip-Heath-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "44057e202d7ac0dae541e41fef20395cd79c5507895f3a00eab0375014b94119",
+    "locator": "line 215; search: Concreteness",
+    "operational_principle": "핵심 압축·예상 밖 발견·구체성·신뢰 근거·감정·이야기로 이해와 기억을 돕기"
+  },
+  {
+    "source_id": "B10",
+    "title": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "uploaded_filename": "10-The-Mom-Test-how-to-talk-to-customers-and-learn-if-your-business-is-a-good-idea-when-everybody-is-lying-to-you-Rob-Fitzpatrick-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "d8a0e65b916965b87737ff7e3db8e28d2a9630c2c36472116ac12b2e5408b0df",
+    "locator": "line 23; search: The Mom Test:",
+    "operational_principle": "과거 행동·구체적 문제·실제 대안과 시간/돈/관계의 투입으로 학습; 칭찬을 수요로 해석하지 않기"
+  }
+]

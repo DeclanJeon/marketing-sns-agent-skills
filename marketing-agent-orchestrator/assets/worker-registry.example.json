@@ -1,0 +1,650 @@
+{
+  "schema_version": "2.0",
+  "note": "Snapshot only. Discover installed worker-capability manifests before planning.",
+  "workers": [
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-market-research",
+      "role": "worker",
+      "provides": [
+        "audience_research"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 10,
+      "channels": [],
+      "selection_tags": [
+        "audience_research"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-brand-strategy",
+      "role": "worker",
+      "provides": [
+        "brand_strategy"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 20,
+      "channels": [],
+      "selection_tags": [
+        "brand_strategy"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-innovation-partnerships",
+      "role": "worker",
+      "provides": [
+        "partnership_strategy"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 15,
+      "channels": [],
+      "selection_tags": [
+        "partnership_strategy"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-pricing-profit",
+      "role": "worker",
+      "provides": [
+        "offer_economics"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 30,
+      "channels": [],
+      "selection_tags": [
+        "offer_economics"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-sales-conversion",
+      "role": "worker",
+      "provides": [
+        "sales_conversion"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 40,
+      "channels": [],
+      "selection_tags": [
+        "sales_conversion"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-creative-messaging",
+      "role": "worker",
+      "provides": [
+        "creative_concepts"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 40,
+      "channels": [],
+      "selection_tags": [
+        "creative_concepts"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-social-campaign",
+      "role": "worker",
+      "provides": [
+        "campaign_strategy"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 35,
+      "channels": [],
+      "selection_tags": [
+        "campaign_strategy"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-customer-experience",
+      "role": "worker",
+      "provides": [
+        "service_recovery"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 20,
+      "channels": [],
+      "selection_tags": [
+        "service_recovery"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-customer-success",
+      "role": "worker",
+      "provides": [
+        "retention_strategy"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 20,
+      "channels": [],
+      "selection_tags": [
+        "retention_strategy"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-channel-retail",
+      "role": "worker",
+      "provides": [
+        "commerce_channels"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 35,
+      "channels": [],
+      "selection_tags": [
+        "commerce_channels"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-measurement-experiments",
+      "role": "worker",
+      "provides": [
+        "business_measurement"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 130,
+      "channels": [],
+      "selection_tags": [
+        "business_measurement"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "marketing-decision-judge",
+      "role": "worker",
+      "provides": [
+        "semantic_review"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 90,
+      "channels": [],
+      "selection_tags": [
+        "semantic_review"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-resource-analyst",
+      "role": "worker",
+      "provides": [
+        "content_atoms"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger"
+      ],
+      "phase": 0,
+      "channels": [],
+      "selection_tags": [
+        "content_atoms"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-positioning-messaging",
+      "role": "worker",
+      "provides": [
+        "message_strategy"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "content_atoms"
+      ],
+      "phase": 50,
+      "channels": [],
+      "selection_tags": [
+        "message_strategy"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-channel-strategist",
+      "role": "worker",
+      "provides": [
+        "channel_strategy"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy"
+      ],
+      "phase": 60,
+      "channels": [],
+      "selection_tags": [
+        "channel_strategy"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-instagram-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:instagram"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "instagram"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "instagram"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-x-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:x"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "x"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "x"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-threads-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:threads"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "threads"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "threads"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-youtube-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:youtube"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "youtube"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "youtube"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-shortvideo-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:tiktok"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "tiktok"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "tiktok"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-linkedin-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:linkedin"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "linkedin"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "linkedin"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-community-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:community"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "community"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "community"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-search-content-worker",
+      "role": "worker",
+      "provides": [
+        "channel_package:search"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "message_strategy",
+        "channel_strategy"
+      ],
+      "phase": 70,
+      "channels": [
+        "search"
+      ],
+      "selection_tags": [
+        "channel_package",
+        "search"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-distribution-worker",
+      "role": "worker",
+      "provides": [
+        "distribution_plan"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "channel_packages"
+      ],
+      "phase": 80,
+      "channels": [],
+      "selection_tags": [
+        "distribution_plan"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-quality-reviewer",
+      "role": "worker",
+      "provides": [
+        "channel_quality"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "channel_packages",
+        "semantic_review"
+      ],
+      "phase": 100,
+      "channels": [],
+      "selection_tags": [
+        "channel_quality"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-campaign-operations-worker",
+      "role": "worker",
+      "provides": [
+        "campaign_operations"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "channel_packages",
+        "distribution_plan",
+        "channel_quality"
+      ],
+      "phase": 110,
+      "channels": [],
+      "selection_tags": [
+        "campaign_operations"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    },
+    {
+      "schema_version": "2.0",
+      "skill_name": "sns-measurement-worker",
+      "role": "worker",
+      "provides": [
+        "social_measurement"
+      ],
+      "requires": [
+        "brief",
+        "evidence_ledger",
+        "channel_packages",
+        "distribution_plan"
+      ],
+      "phase": 120,
+      "channels": [],
+      "selection_tags": [
+        "social_measurement"
+      ],
+      "conflicts_with": [],
+      "estimated_minutes": null,
+      "cost_basis": "unknown",
+      "external_actions": "none_without_task_scope",
+      "version": "2.0"
+    }
+  ]
+}

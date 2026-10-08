@@ -1,0 +1,21 @@
+{
+  "recipe_id": "developer_launch",
+  "channels": [
+    "x",
+    "youtube",
+    "community"
+  ],
+  "available_capabilities": {},
+  "extra_capabilities": [],
+  "provider_overrides": {},
+  "flags": {
+    "customer_unknown": false,
+    "upfront_cash_constraint": false,
+    "delivery_service_risk": false
+  },
+  "time_cap_minutes": null,
+  "worker_estimates": {},
+  "execution_request": "draft_only",
+  "language": "ko",
+  "timezone": "Asia/Seoul"
+}

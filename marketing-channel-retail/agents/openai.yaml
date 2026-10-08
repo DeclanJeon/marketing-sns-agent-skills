@@ -1,0 +1,13 @@
+interface:
+  display_name: 유통·리테일
+  short_description: 고객 근거로 유통·리테일을 수행하고 실행안과 검증 기준까지 완성합니다
+  default_prompt: $marketing-channel-retail 스킬로 제공 자료를 분석하고 실행 가능한 유통·리테일 산출물을 만들어줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

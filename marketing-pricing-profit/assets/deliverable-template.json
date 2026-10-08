@@ -1,0 +1,16 @@
+{
+  "task_id": "",
+  "skill": "marketing-pricing-profit",
+  "facts": [],
+  "assumptions": [],
+  "deliverables": [
+    "오퍼와 가격 시나리오표: 수량, 매출, 변동비, 공헌이익, 고정비, 손익",
+    "가정표와 민감도 범위",
+    "추천 가격·할인 한계·검증 계획"
+  ],
+  "claim_evidence": [],
+  "decisions": [],
+  "risks": [],
+  "next_actions": [],
+  "status": "draft"
+}

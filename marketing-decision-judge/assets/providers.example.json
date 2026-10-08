@@ -1,0 +1,56 @@
+{
+  "active_profile": "openrouter-jev",
+  "profiles": {
+    "openrouter-jev": {
+      "adapter": "openrouter-decisions",
+      "endpoint": "https://openrouter.ai/api/alpha/decisions",
+      "model": "typesafe/jev-1.13",
+      "api_key_env": "OPENROUTER_API_KEY",
+      "timeout_seconds": 30,
+      "max_retries": 2,
+      "provider_routing": {
+        "allow_fallbacks": false
+      }
+    },
+    "typesafe-jev": {
+      "adapter": "typesafe-systemone",
+      "endpoint": "https://api.typesafe.ai/v1/systemone",
+      "model": "jev-latest",
+      "api_key_env": "TYPESAFE_API_KEY",
+      "timeout_seconds": 30,
+      "max_retries": 2
+    },
+    "openrouter-judge-llm": {
+      "adapter": "chat-json",
+      "endpoint": "https://openrouter.ai/api/v1/chat/completions",
+      "model": "REPLACE_WITH_STRUCTURED_OUTPUT_MODEL_ID",
+      "api_key_env": "OPENROUTER_API_KEY",
+      "timeout_seconds": 30,
+      "max_retries": 2,
+      "provider_routing": {
+        "allow_fallbacks": false,
+        "require_parameters": true
+      }
+    },
+    "custom-judge-llm": {
+      "adapter": "chat-json",
+      "endpoint": "https://your-provider.example/v1/chat/completions",
+      "model": "REPLACE_WITH_MODEL_ID",
+      "api_key_env": "CUSTOM_JUDGE_API_KEY",
+      "timeout_seconds": 30,
+      "max_retries": 2
+    }
+  },
+  "policy": {
+    "true_min": 0.9,
+    "false_max": 0.1,
+    "structured_min_confidence": 0.9,
+    "calibrated": false,
+    "calibration_record": null,
+    "policy_version": "marketing-1.1"
+  },
+  "notes": [
+    "Thresholds are provisional. calibrated=false keeps outcomes in review until labeled target-domain evaluation.",
+    "No silent fallback. Change profile explicitly and revalidate thresholds per model/provider/version."
+  ]
+}

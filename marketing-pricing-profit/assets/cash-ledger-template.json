@@ -1,0 +1,19 @@
+{
+  "currency": "KRW",
+  "basis": "scenario",
+  "opening_cash": null,
+  "reserved_cash": null,
+  "deadline_day": null,
+  "events": [],
+  "event_fields": [
+    "id",
+    "day",
+    "sequence",
+    "amount",
+    "description",
+    "evidence_id"
+  ],
+  "notes": [
+    "Use integers in one currency. Amount positive for receipts and negative for payments. Net settlement excludes fees already withheld. Do not use this incomplete template as a valid forecast."
+  ]
+}

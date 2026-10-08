@@ -1,0 +1,44 @@
+{
+  "claim_supported": {
+    "type": "noul",
+    "instructions": "Does the provided verified evidence support every material part of this atomic claim, with its stated conditions?",
+    "criteria": {
+      "true": "Supported without contradictions.",
+      "false": "Unsupported or contradicted; this does not mean objectively false."
+    }
+  },
+  "brand_fit": {
+    "type": "noul",
+    "instructions": "Does this content match the supplied brand tone, promise and audience?",
+    "criteria": {
+      "true": "Matches every required brand condition.",
+      "false": "Violates a material required brand condition."
+    }
+  },
+  "offer_transparent": {
+    "type": "noul",
+    "instructions": "Does the draft accurately communicate verified price, extra charges, scope and conditions?",
+    "criteria": {
+      "true": "All material purchase conditions are represented accurately.",
+      "false": "A material condition is missing or inconsistent."
+    }
+  },
+  "lead_fit": {
+    "type": "choice",
+    "instructions": "Which fit level is supported by the supplied lead needs and qualification criteria?",
+    "criteria": {
+      "fit": "All required needs and qualification criteria match.",
+      "not_fit": "A material mismatch is established.",
+      "unknown": "Not enough information to assess."
+    }
+  },
+  "content_quality": {
+    "type": "score",
+    "instructions": "Rate clarity and usefulness against the supplied content brief.",
+    "criteria": [
+      "Confusing, no relevant value or action.",
+      "Some value but important ambiguity or weak action.",
+      "Clear customer value, evidence and appropriate next action."
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": "2.0",
+  "skill_name": "sns-resource-analyst",
+  "role": "worker",
+  "provides": [
+    "content_atoms"
+  ],
+  "requires": [
+    "brief",
+    "evidence_ledger"
+  ],
+  "phase": 0,
+  "channels": [],
+  "selection_tags": [
+    "content_atoms"
+  ],
+  "conflicts_with": [],
+  "estimated_minutes": null,
+  "cost_basis": "unknown",
+  "external_actions": "none_without_task_scope",
+  "version": "2.0"
+}

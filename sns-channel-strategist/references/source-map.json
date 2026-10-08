@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "B01",
+    "title": "Traction",
+    "author": "Gabriel Weinberg, Justin Mares",
+    "uploaded_filename": "01-Traction-a-startup-guide-to-getting-customers-Gabriel-Weinberg-Justin-Mares-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "15dca6f2c7950b5a9b01a54f0d1844e0762618447b6a0433a82d7e186894cf0f",
+    "locator": "line 31; search: Bullseye",
+    "operational_principle": "채널 발산·우선순위·작은 실험·집중; 획득 비용과 규모·적합한 고객 확인"
+  },
+  {
+    "source_id": "B05",
+    "title": "Content Inc., Second Edition",
+    "author": "Joe Pulizzi",
+    "uploaded_filename": "05-Content-Inc.-Second-Edition-Start-a-Content-First-Business-Build-a-Massive-Audience-and-Become-Radically-Successful-With-Joe-Pulizzi-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "5f2a2491731de3d24b684b898714576692636b3306c79ad4c1d7e2e0a002f857",
+    "locator": "line 121; search: content tilt",
+    "operational_principle": "역량과 고객 관심의 접점·독특한 관점·핵심 매체·구독 관계·수익화; 성급한 전 채널 확장 방지"
+  },
+  {
+    "source_id": "B08",
+    "title": "Obviously Awesome",
+    "author": "April Dunford",
+    "uploaded_filename": "08-Obviously-Awesome-April-Dunford-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "accc9a961b149c621ba46a9c5771cd999b6576da6a8b00253086b684034165e5",
+    "locator": "line 109; search: competitive alternatives",
+    "operational_principle": "고객 대안 → 차별 기능 → 증명 가능한 가치 → 최적 고객 → 시장 범주 순서로 포지셔닝"
+  }
+]

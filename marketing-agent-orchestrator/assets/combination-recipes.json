@@ -1,0 +1,222 @@
+{
+  "version": "2.0",
+  "recipes": [
+    {
+      "id": "social_campaign",
+      "label": "콘텐츠 SNS 홍보",
+      "required_capabilities": [
+        "campaign_strategy",
+        "creative_concepts"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "cash_sale",
+      "label": "단일 상품 빠른 현금 회수",
+      "required_capabilities": [
+        "sales_conversion",
+        "offer_economics",
+        "commerce_channels"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "product_launch",
+      "label": "신제품 출시",
+      "required_capabilities": [
+        "audience_research",
+        "brand_strategy",
+        "offer_economics",
+        "sales_conversion",
+        "creative_concepts"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "developer_launch",
+      "label": "개발 프로그램 출시",
+      "required_capabilities": [
+        "sales_conversion",
+        "creative_concepts"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "b2b_leads",
+      "label": "B2B 문의·상담",
+      "required_capabilities": [
+        "audience_research",
+        "sales_conversion",
+        "creative_concepts"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "brand_awareness",
+      "label": "브랜드 신뢰·노출",
+      "required_capabilities": [
+        "brand_strategy",
+        "creative_concepts"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "search_growth",
+      "label": "검색 유입·전환",
+      "required_capabilities": [
+        "audience_research",
+        "sales_conversion"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "partnership_launch",
+      "label": "제휴 출시",
+      "required_capabilities": [
+        "partnership_strategy",
+        "commerce_channels",
+        "offer_economics",
+        "creative_concepts"
+      ],
+      "channel_mode": "required",
+      "final_capabilities": [
+        "semantic_review",
+        "business_measurement"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "retention",
+      "label": "기존 고객 유지",
+      "required_capabilities": [
+        "retention_strategy",
+        "service_recovery"
+      ],
+      "channel_mode": "none",
+      "final_capabilities": [
+        "semantic_review"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "cx_recovery",
+      "label": "고객 경험 회복",
+      "required_capabilities": [
+        "service_recovery"
+      ],
+      "channel_mode": "none",
+      "final_capabilities": [
+        "semantic_review"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "pricing",
+      "label": "가격·공헌이익·현금",
+      "required_capabilities": [
+        "offer_economics"
+      ],
+      "channel_mode": "none",
+      "final_capabilities": [
+        "semantic_review"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    },
+    {
+      "id": "measurement",
+      "label": "성과·실험 판단",
+      "required_capabilities": [
+        "business_measurement"
+      ],
+      "channel_mode": "none",
+      "final_capabilities": [
+        "semantic_review"
+      ],
+      "conditional_additions": {
+        "customer_unknown": "audience_research",
+        "upfront_cash_constraint": "offer_economics",
+        "delivery_service_risk": "service_recovery"
+      }
+    }
+  ],
+  "optional_stages_not_counted": true
+}

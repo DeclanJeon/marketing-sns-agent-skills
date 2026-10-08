@@ -1,0 +1,1384 @@
+[
+  {
+    "id": "B01",
+    "title": "A Technique for Producing Ideas",
+    "authors": "James Webb Young",
+    "area": "ideas",
+    "source_file": "01-A-Technique-for-Producing-Ideas-James-Webb-Young-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "e73cb9bba2335def493ccc04ab5a9acb8730dd4e4431193b55b869d3f61fde1a",
+    "characters": 40534,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "combination",
+        "line": 19,
+        "char_start": 6593
+      },
+      {
+        "keyword": "relationships",
+        "line": 19,
+        "char_start": 6610
+      },
+      {
+        "keyword": "gathering",
+        "line": 21,
+        "char_start": 7583
+      }
+    ],
+    "principles": [
+      "제품·고객의 구체적 자료와 넓은 분야의 자료를 함께 모아라.",
+      "자료 사이 관계를 찾아 여러 조합을 만들어라.",
+      "집중 검토 뒤 다른 작업으로 전환하고 다시 검토하라.",
+      "떠오른 아이디어를 실행 조건과 고객 반응에 맞게 다듬어라."
+    ],
+    "limits": "아이디어 품질을 직감만으로 승인하지 말고 작은 실험으로 확인한다."
+  },
+  {
+    "id": "B02",
+    "title": "Aaker on Branding",
+    "authors": "David A. Aaker",
+    "area": "brand",
+    "source_file": "02-Aaker-on-branding-20-principles-that-drive-success-Aaker-David-A.-author-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "d37966ea5780b12422a2736a8f818d2879d75b35e6ef37dc14d3cd080dacc08e",
+    "characters": 438362,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "brand vision",
+        "line": 73,
+        "char_start": 53243
+      },
+      {
+        "keyword": "brand equity",
+        "line": 61,
+        "char_start": 43908
+      },
+      {
+        "keyword": "portfolio",
+        "line": 137,
+        "char_start": 126616
+      },
+      {
+        "keyword": "consistency",
+        "line": 85,
+        "char_start": 68590
+      }
+    ],
+    "principles": [
+      "브랜드를 단기 캠페인보다 오래가는 사업 자산으로 다뤄라.",
+      "기능·정서·자기표현 이익을 나누고 핵심 비전을 정하라.",
+      "브랜드 포트폴리오의 역할과 관계를 명시하라.",
+      "자산을 일관되게 유지하고 확장은 적합성과 시너지를 검토하라."
+    ],
+    "limits": "비전 변화는 유행이 아닌 고객·사업 근거를 요구한다."
+  },
+  {
+    "id": "B03",
+    "title": "Absolute Value",
+    "authors": "Itamar Simonson, Emanuel Rosen",
+    "area": "research",
+    "source_file": "03-Absolute-Value-What-Really-Influences-Customers-in-the-Age-of-Itamar-Simonson-Emanuel-Rosen-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "3fdc625884349b4d8ad253a30dc49affc0c3cead04e4cca384ea15b6abe521f2",
+    "characters": 453743,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "influence mix",
+        "line": 81,
+        "char_start": 228739
+      },
+      {
+        "keyword": "absolute value",
+        "line": 25,
+        "char_start": 45633
+      },
+      {
+        "keyword": "reviews",
+        "line": 29,
+        "char_start": 56450
+      }
+    ],
+    "principles": [
+      "고객 자신의 선호·타인의 정보·마케터 영향의 상대적 비중을 조사하라.",
+      "비교 가능한 실제 성능과 사용 경험을 구매 지점에 제공하라.",
+      "리뷰와 전문가 평가의 신뢰성·대표성을 점검하라.",
+      "브랜드 설득과 정보 제공의 비중을 카테고리별로 조절하라."
+    ],
+    "limits": "정보가 많다는 이유만으로 브랜드 영향이 사라졌다고 단정하지 않는다."
+  },
+  {
+    "id": "B04",
+    "title": "Customer Experience 3.0",
+    "authors": "John A. Goodman",
+    "area": "cx",
+    "source_file": "04-Customer-experience-3.0-high-profit-strategies-in-the-age-of-techno-service-Goodman-John-A-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "784b5e4300add5b5b254a75d7b617e495d903811e0a5227bce05f06fe45ae4b9",
+    "characters": 518246,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "proactive",
+        "line": 81,
+        "char_start": 63918
+      },
+      {
+        "keyword": "voice of",
+        "line": 369,
+        "char_start": 358320
+      },
+      {
+        "keyword": "prevention",
+        "line": 155,
+        "char_start": 140465
+      }
+    ],
+    "principles": [
+      "문의 발생 뒤 대응뿐 아니라 문제 예방을 설계하라.",
+      "고객의 소리를 빈도·영향·원인별로 묶어라.",
+      "선제 안내와 접근하기 쉬운 도움 채널을 마련하라.",
+      "불만 비용과 개선 편익을 추정해 우선순위를 정하라."
+    ],
+    "limits": "자동화로 절감한 비용만 보고 고객의 추가 수고를 숨기지 않는다."
+  },
+  {
+    "id": "B05",
+    "title": "Customer Success",
+    "authors": "Nick Mehta, Dan Steinman, Lincoln Murphy",
+    "area": "success",
+    "source_file": "05-Customer-Success-How-Innovative-Companies-are-Reducing-Churn-and-Growing-Recurring-Revenue-Nick-Mehta-Dan-Steinman-Lincoln-Murphy-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "d8a673fa40b819b29545913919d3a2ccf6350ab52009cbed0cf4d1f8973ab554",
+    "characters": 464336,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "health",
+        "line": 53,
+        "char_start": 77770
+      },
+      {
+        "keyword": "proactive",
+        "line": 53,
+        "char_start": 77957
+      },
+      {
+        "keyword": "touch",
+        "line": 45,
+        "char_start": 63402
+      }
+    ],
+    "principles": [
+      "고객이 원하는 결과와 최초 가치 도달 조건을 합의하라.",
+      "건강도 지표를 사용·성과·관계·위험 신호로 나눠라.",
+      "고객 가치와 복잡도에 맞게 high/low/tech touch를 배분하라.",
+      "온보딩·갱신·확장 개입을 사후 대응 대신 선제 실행하라."
+    ],
+    "limits": "건강도 점수는 진단 가설이며 이탈 원인과 동일하지 않다."
+  },
+  {
+    "id": "B06",
+    "title": "Factfulness",
+    "authors": "Hans Rosling, Ola Rosling, Anna Rosling Rönnlund",
+    "area": "measurement",
+    "source_file": "06-Factfulness-Hans-Rosling-Ola-Rosling-etc.-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "eb20ce8b51b5a2cfe616fed49bf30b3d9a9f9371886e00d7b92915b1f519ece9",
+    "characters": 588427,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "instinct du fossé",
+        "line": 19,
+        "char_start": 11480
+      },
+      {
+        "keyword": "instinct de négativité",
+        "line": 17,
+        "char_start": 6983
+      },
+      {
+        "keyword": "instinct de la ligne droite",
+        "line": 127,
+        "char_start": 120432
+      },
+      {
+        "keyword": "instinct de la peur",
+        "line": 167,
+        "char_start": 157958
+      }
+    ],
+    "principles": [
+      "양극단만 보지 말고 분포와 중간 집단을 확인하라.",
+      "절대 수치에 분모·기준기간·비교 대상을 붙여라.",
+      "극적인 사례와 전체 추세를 구분하라.",
+      "긴급성·단일 원인·단순 직선 예측을 반증 자료와 함께 점검하라."
+    ],
+    "limits": "좋아진 추세도 남아 있는 피해나 문제를 지우지 않는다. 첨부는 프랑스어 번역본이다.",
+    "language": "fr"
+  },
+  {
+    "id": "B07",
+    "title": "How Brands Grow Part 2",
+    "authors": "Jenni Romaniuk, Byron Sharp",
+    "area": "brand",
+    "source_file": "07-How-Brands-Grow-Part-2-Emerging-Markets-Services-and-Durables-New-Brands-and-Luxury-Brands-Jenni-Romaniuk-Byron-Sharp-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "f66e03f53d059d88388f8528ae5dc32da34b3698c99f4a2039085351be6c8688",
+    "characters": 508,
+    "status": "empty",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [],
+    "principles": [
+      "첨부 파일이 공백뿐이므로 본문 원칙을 추출하지 않는다."
+    ],
+    "limits": "검토 보류. 다른 책이나 기억으로 이 책의 내용을 채우지 않는다."
+  },
+  {
+    "id": "B08",
+    "title": "How Brands Grow",
+    "authors": "Byron Sharp",
+    "area": "brand",
+    "source_file": "08-How-Brands-Grow-What-Marketers-Don-t-Know-Byron-Sharp-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "078a6ced47d392c9edd7824731bcfa359afcf3a5969c07c506afe900abb04d2a",
+    "characters": 483046,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "penetration",
+        "line": 43,
+        "char_start": 53362
+      },
+      {
+        "keyword": "double jeopardy",
+        "line": 41,
+        "char_start": 48571
+      },
+      {
+        "keyword": "mental availability",
+        "line": 45,
+        "char_start": 57505
+      },
+      {
+        "keyword": "physical availability",
+        "line": 43,
+        "char_start": 52354
+      }
+    ],
+    "principles": [
+      "브랜드 성장에서 구매자 수와 침투율을 먼저 조사하라.",
+      "가벼운 구매자를 포함한 카테고리 구매자 도달을 확인하라.",
+      "구매 상황에서 떠오르는 기억과 실제 구매 접근성을 함께 설계하라.",
+      "식별 자산을 일관되게 사용하고 할인 매출의 순증 효과를 점검하라."
+    ],
+    "limits": "경험적 경향을 모든 B2B·구독 사업의 보편 법칙으로 적용하지 않는다."
+  },
+  {
+    "id": "B09",
+    "title": "Lead and Disrupt, 2nd edition",
+    "authors": "Charles O’Reilly III, Michael Tushman",
+    "area": "innovation",
+    "source_file": "09-Lead-and-Disrupt-How-to-Solve-the-Innovators-Dilemma-2nd-edition-Charles-O-Reilly-III-Michael-Tushman-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "83ff31147818367364e205ebdd27d86d01604ae907a5942beb5fe4f8430f54c4",
+    "characters": 678421,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "ambidextr",
+        "line": 105,
+        "char_start": 88313
+      },
+      {
+        "keyword": "exploration",
+        "line": 91,
+        "char_start": 73616
+      },
+      {
+        "keyword": "exploit",
+        "line": 91,
+        "char_start": 71381
+      }
+    ],
+    "principles": [
+      "기존 사업 개선과 새 사업 탐색의 과제를 분리하라.",
+      "탐색에는 학습·검증 지표, 기존 사업에는 효율·수익 지표를 적용하라.",
+      "각 조직의 자율성과 공동 방향을 동시에 설계하라.",
+      "리더가 자원 배분과 자기잠식 갈등을 책임지게 하라."
+    ],
+    "limits": "새 실험을 기존 사업의 단기 마진 기준만으로 폐기하지 않는다."
+  },
+  {
+    "id": "B10",
+    "title": "Levitt on Marketing",
+    "authors": "Theodore Levitt",
+    "area": "research",
+    "source_file": "10-Levitt-on-marketing-Levitt-Theodore-1925-2006-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "fdc4685add87e987229a2c6252f69b3fcd07d401c89ab9d5e1373af006bf23f4",
+    "characters": 432932,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "myopia",
+        "line": 33,
+        "char_start": 43893
+      },
+      {
+        "keyword": "differentiation",
+        "line": 53,
+        "char_start": 100004
+      },
+      {
+        "keyword": "augmented",
+        "line": 127,
+        "char_start": 227707
+      }
+    ],
+    "principles": [
+      "제품 종류 대신 고객이 얻으려는 결과로 시장을 정의하라.",
+      "직접 경쟁뿐 아니라 같은 일을 해결하는 대안을 찾으라.",
+      "제품에 배송·결제·지원·관계를 포함한 총가치를 설계하라.",
+      "차별화와 서비스 표준화 기회를 고객 관점에서 찾으라."
+    ],
+    "limits": "글로벌 표준화는 현지 문화·규정·구매 습관을 확인한 뒤 판단한다."
+  },
+  {
+    "id": "B11",
+    "title": "Made to Stick",
+    "authors": "Chip Heath, Dan Heath",
+    "area": "ideas",
+    "source_file": "11-Made-to-Stick-Why-Some-Ideas-Survive-and-Others-Die-Chip-Heath-Dan-Heath-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "20614c3c83bdcf3b77881de469edb7f61124af7ead3cb69d87cf210dc33a941f",
+    "characters": 569980,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "simple",
+        "line": 45,
+        "char_start": 59916
+      },
+      {
+        "keyword": "unexpected",
+        "line": 53,
+        "char_start": 72488
+      },
+      {
+        "keyword": "concrete",
+        "line": 53,
+        "char_start": 72467
+      },
+      {
+        "keyword": "credible",
+        "line": 111,
+        "char_start": 168235
+      },
+      {
+        "keyword": "emotional",
+        "line": 75,
+        "char_start": 109616
+      },
+      {
+        "keyword": "stories",
+        "line": 55,
+        "char_start": 75650
+      }
+    ],
+    "principles": [
+      "한 문장으로 핵심을 정하고 이해에 필요한 맥락을 남겨라.",
+      "관련 있는 놀라움과 정보 공백으로 관심을 이어라.",
+      "구체적 장면과 검증 가능한 근거로 이해와 신뢰를 돕게 하라.",
+      "고객의 의미와 행동을 보여주는 이야기로 다음 행동을 연결하라."
+    ],
+    "limits": "놀라움·감정은 사실 왜곡이나 무관한 낚시 제목을 정당화하지 않는다."
+  },
+  {
+    "id": "B12",
+    "title": "Mapping Experiences",
+    "authors": "James Kalbach",
+    "area": "cx",
+    "source_file": "12-Mapping-Experiences-A-Complete-Guide-to-Creating-Value-through-Journeys-Blueprints-and-Diagrams-James-Kalbach-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "52b4fd4ac211895d18e40b3a79efbba55de9623f8154da228fd358158b4bcbfd",
+    "characters": 643821,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "alignment",
+        "line": 75,
+        "char_start": 64444
+      },
+      {
+        "keyword": "journey",
+        "line": 77,
+        "char_start": 65424
+      },
+      {
+        "keyword": "blueprint",
+        "line": 77,
+        "char_start": 65146
+      }
+    ],
+    "principles": [
+      "고객 행동과 조직 제공 가치를 같은 여정에 놓아라.",
+      "인터뷰·관찰 근거로 접점과 막힘을 기록하라.",
+      "고객에게 보이는 단계와 내부 프로세스를 연결하라.",
+      "맵마다 범위·대상·근거·담당자·개선 결정을 명시하라."
+    ],
+    "limits": "여정도는 실제 조사 결과와 가설을 구분하고 주기적으로 갱신한다."
+  },
+  {
+    "id": "B13",
+    "title": "Marketing 3.0",
+    "authors": "Philip Kotler, Hermawan Kartajaya, Iwan Setiawan",
+    "area": "brand",
+    "source_file": "13-Marketing-3.0-From-Products-to-Customers-to-the-Human-Spirit-Kotler-PhilipKartajaya-HermawanSetiawan-etc.-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "cb5bb3beff2139de436e9ca2f9c35ce70059256db115567f8d1bb6a5582aaf5a",
+    "characters": 330899,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "valores",
+        "line": 39,
+        "char_start": 36527
+      },
+      {
+        "keyword": "missão",
+        "line": 45,
+        "char_start": 50876
+      },
+      {
+        "keyword": "colabora",
+        "line": 41,
+        "char_start": 40539
+      }
+    ],
+    "principles": [
+      "고객을 기능적 수요와 가치관을 가진 사람으로 이해하라.",
+      "기업의 미션·가치·실제 운영의 일치를 점검하라.",
+      "고객·직원·파트너의 참여를 설계하라.",
+      "사회적 약속을 검증 가능한 행동과 지표에 연결하라."
+    ],
+    "limits": "첨부 본문은 포르투갈어다. 가치 표방을 사회적 성과의 증거로 보지 않는다.",
+    "language": "pt"
+  },
+  {
+    "id": "B14",
+    "title": "Marketing Outrageously Redux",
+    "authors": "Jon Spoelstra",
+    "area": "social",
+    "source_file": "14-Marketing-outrageously-redux-how-to-increase-your-revenue-by-staggering-amounts-Spoelstra-Jon-Spoelstra-etc.-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "c2bdda9a786baf616bf40c594de270d6620f5f346384f96876e57e88f043924b",
+    "characters": 497967,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "revenue",
+        "line": 71,
+        "char_start": 53051
+      },
+      {
+        "keyword": "outrageous",
+        "line": 67,
+        "char_start": 49941
+      },
+      {
+        "keyword": "ideas",
+        "line": 67,
+        "char_start": 49964
+      }
+    ],
+    "principles": [
+      "매출로 이어질 고객 행동을 먼저 정하라.",
+      "관습에서 벗어난 제안을 고객 관련성과 결합하라.",
+      "이미 보유한 고객·접점·파트너 자산을 활용하라.",
+      "작은 예산 실험으로 반응과 실매출을 확인하라."
+    ],
+    "limits": "주목을 매출로 간주하지 말고 자극적인 실행의 브랜드 비용을 기록한다."
+  },
+  {
+    "id": "B15",
+    "title": "Moments of Truth",
+    "authors": "Jan Carlzon",
+    "area": "cx",
+    "source_file": "15-Moments-of-Truth-Jan-Carlzon-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "77d5957eea0851d3db049c62edfebb005037042af4b1f3babb0a2112b1936baa",
+    "characters": 235602,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "frontline",
+        "line": 77,
+        "char_start": 45365
+      },
+      {
+        "keyword": "decentral",
+        "line": 89,
+        "char_start": 53876
+      }
+    ],
+    "principles": [
+      "고객이 회사를 평가하는 중요한 접점을 찾아라.",
+      "접점 담당자에게 해결 정보와 권한을 제공하라.",
+      "관리 역할을 현장 지원과 장애 제거 중심으로 바꿔라.",
+      "공통 고객 목표와 피드백으로 자율적 의사결정을 정렬하라."
+    ],
+    "limits": "현장 자율성은 해결 범위와 책임·예산 경계를 명확히 한다."
+  },
+  {
+    "id": "B16",
+    "title": "Ogilvy on Advertising",
+    "authors": "David Ogilvy",
+    "area": "ideas",
+    "source_file": "16-Ogilvy-on-Advertising-David-Ogilvy-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "4d6e25428701e26c99f7d220e318c76b30059d4376eec09ef0b76d7cc9db3ebb",
+    "characters": 418415,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "research",
+        "line": 85,
+        "char_start": 45538
+      },
+      {
+        "keyword": "headline",
+        "line": 185,
+        "char_start": 123093
+      },
+      {
+        "keyword": "promise",
+        "line": 119,
+        "char_start": 67877
+      }
+    ],
+    "principles": [
+      "제품·사용자·경쟁 자료를 조사한 뒤 광고를 써라.",
+      "고객에게 의미 있고 입증 가능한 약속을 정하라.",
+      "헤드라인·시각·본문이 같은 판매 논지를 전달하게 하라.",
+      "한 번에 한 요소를 바꿔 구매 행동으로 효과를 시험하라."
+    ],
+    "limits": "과거 매체의 성과 수치를 현재 SNS 보장치로 재사용하지 않는다."
+  },
+  {
+    "id": "B17",
+    "title": "Open Innovation",
+    "authors": "Henry W. Chesbrough",
+    "area": "innovation",
+    "source_file": "17-Open-Innovation-The-New-Imperative-for-Creating-and-Profiting-from-Technology-Henry-W.-Chesbrough-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "fcceab3ed23ed5f7e5f2e6b319eba42369bbaf86db57244eaee051cbc7da5323",
+    "characters": 542606,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "business model",
+        "line": 71,
+        "char_start": 55028
+      },
+      {
+        "keyword": "external",
+        "line": 75,
+        "char_start": 57932
+      },
+      {
+        "keyword": "licens",
+        "line": 145,
+        "char_start": 132267
+      }
+    ],
+    "principles": [
+      "내부와 외부의 아이디어·기술 자원을 함께 탐색하라.",
+      "가치 창출과 가치 회수의 사업 모델을 구분하라.",
+      "직접 사업화·제휴·라이선스 경로를 비교하라.",
+      "파트너별 역할·권리·수익 배분·검증 단계를 정하라."
+    ],
+    "limits": "외부 아이디어 도입은 권리와 데이터 이용 조건을 확인한다."
+  },
+  {
+    "id": "B18",
+    "title": "Positioning",
+    "authors": "Al Ries, Jack Trout",
+    "area": "brand",
+    "source_file": "18-Positioning-The-Battle-for-Your-Mind-Al-Ries-Jack-Trout-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "f05119224a9106979f2ced3db65b999c1e7539cf99efe0f5236535d66e9e42f6",
+    "characters": 314921,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "mind",
+        "line": 53,
+        "char_start": 31650
+      },
+      {
+        "keyword": "ladder",
+        "line": 81,
+        "char_start": 50463
+      },
+      {
+        "keyword": "position",
+        "line": 61,
+        "char_start": 37232
+      }
+    ],
+    "principles": [
+      "고객 머릿속 기존 범주와 비교 대안을 조사하라.",
+      "기억하기 쉬운 한 가지 위치를 정하라.",
+      "선도자 모방 대신 의미 있는 빈자리를 검토하라.",
+      "이름·메시지·확장이 기존 인식을 어떻게 바꾸는지 점검하라."
+    ],
+    "limits": "좁은 포지셔닝 가설은 실제 구매자 도달을 과도하게 제한하지 않게 검증한다."
+  },
+  {
+    "id": "B19",
+    "title": "Power Pricing",
+    "authors": "Robert J. Dolan, Hermann Simon",
+    "area": "pricing",
+    "source_file": "19-Power-pricing-how-managing-price-transforms-the-bottom-line-Dolan-Robert-J-Simon-Hermann-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "bf8bd98a19853ceb97c245ae49842af83fd1216426e056af03fc589035700233",
+    "characters": 878871,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "elasticity",
+        "line": 113,
+        "char_start": 104209
+      },
+      {
+        "keyword": "segmentation",
+        "line": 119,
+        "char_start": 111186
+      },
+      {
+        "keyword": "bundling",
+        "line": 267,
+        "char_start": 272967
+      }
+    ],
+    "principles": [
+      "원가뿐 아니라 고객 가치·대안·가격 반응을 조사하라.",
+      "가격·수량·단위 이익의 시나리오를 함께 계산하라.",
+      "고객·상품·시간별 가격 차이와 번들 조건을 설계하라.",
+      "가격 결정 책임과 실행·측정 프로세스를 정하라."
+    ],
+    "limits": "탄력성은 관측·실험 근거가 없으면 범위 가정으로 표기한다."
+  },
+  {
+    "id": "B20",
+    "title": "Principles of Marketing, 18th Global Edition",
+    "authors": "Philip Kotler, Gary Armstrong",
+    "area": "research",
+    "source_file": "20-Principles-of-Marketing-18thGlobal-Edtion-Philip-Kotler-Gary-Armstrong-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "b9c00e6fa392953ccc41696a4796414496bc1b18b161b7850a951709736fd292",
+    "characters": 3337438,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "targeting",
+        "line": 289,
+        "char_start": 335265
+      },
+      {
+        "keyword": "positioning",
+        "line": 299,
+        "char_start": 350969
+      },
+      {
+        "keyword": "marketing mix",
+        "line": 457,
+        "char_start": 601575
+      }
+    ],
+    "principles": [
+      "고객·경쟁·환경 조사를 통해 기회를 정의하라.",
+      "시장 세분화·표적 선택·포지셔닝을 연결하라.",
+      "제품·가격·유통·촉진을 하나의 가치 제안으로 정렬하라.",
+      "고객 관계와 마케팅 성과를 함께 관리하라."
+    ],
+    "limits": "교과서 프레임과 시장 사실을 구분하고 현재 채널 정책을 확인한다."
+  },
+  {
+    "id": "B21",
+    "title": "Reengineering Retail",
+    "authors": "Doug Stephens",
+    "area": "retail",
+    "source_file": "21-Reengineering-retail-the-future-of-selling-in-a-post-digital-world-Stephens-Doug-author-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "6f5a0b360596b4af2dd55e6f668b308fa2e2e249c8e58ea2f9992c18120fc9b5",
+    "characters": 532873,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "experience",
+        "line": 81,
+        "char_start": 55043
+      }
+    ],
+    "principles": [
+      "오프라인 매장을 판매와 경험·미디어 접점으로 설계하라.",
+      "온라인과 현장 접점 사이 인계 마찰을 찾아라.",
+      "체험·서비스·편의의 차별성을 설계하라.",
+      "방문·참여·구매·후속 행동으로 공간 가치를 측정하라."
+    ],
+    "limits": "온라인과 오프라인 중 하나의 미래를 단정하지 않는다."
+  },
+  {
+    "id": "B22",
+    "title": "Sam Walton: Made in America",
+    "authors": "Sam Walton",
+    "area": "retail",
+    "source_file": "22-Sam-Walton-Made-In-America-Sam-Walton-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "a12a648fe963d0c7f995a34d206e897f85e878de63d37957bef761a1171604f7",
+    "characters": 540678,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "customers",
+        "line": 37,
+        "char_start": 55106
+      },
+      {
+        "keyword": "expenses",
+        "line": 43,
+        "char_start": 67797
+      },
+      {
+        "keyword": "partners",
+        "line": 51,
+        "char_start": 83390
+      }
+    ],
+    "principles": [
+      "현장과 경쟁 매장에서 직접 학습하라.",
+      "운영 비용과 고객 제공 가격의 연결을 점검하라.",
+      "직원을 파트너로 보고 정보와 성과를 공유하라.",
+      "작은 개선을 반복하고 지역 고객의 반응을 확인하라."
+    ],
+    "limits": "창업가 회고의 성공 사례를 보편적인 인과 증거로 취급하지 않는다."
+  },
+  {
+    "id": "B23",
+    "title": "Services Marketing",
+    "authors": "Jochen Wirtz, Christopher Lovelock",
+    "area": "cx",
+    "source_file": "23-Services-Marketing-People-Technology-Strategy-Jochen-Wirtz-Christopher-Lovelock-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "6c736d401f5a652928b15ee90f80e430757a0fd1f4fb604f4c74287b513d53ff",
+    "characters": 2288251,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "capacity",
+        "line": 385,
+        "char_start": 343117
+      },
+      {
+        "keyword": "blueprint",
+        "line": 865,
+        "char_start": 795256
+      },
+      {
+        "keyword": "recovery",
+        "line": 279,
+        "char_start": 233516
+      },
+      {
+        "keyword": "people",
+        "line": 285,
+        "char_start": 240266
+      }
+    ],
+    "principles": [
+      "서비스의 상품·가격·접근·촉진·사람·과정·물리적 증거를 정렬하라.",
+      "고객 참여와 내부 과정의 실패 지점을 설계도로 찾아라.",
+      "수요·공급 용량·대기 시간을 관리하라.",
+      "직원 역량·불만 회복·품질·생산성을 함께 측정하라."
+    ],
+    "limits": "고객 노력과 직원 부담을 줄이는 방향으로 자동화를 평가한다."
+  },
+  {
+    "id": "B24",
+    "title": "SPIN Selling",
+    "authors": "Neil Rackham",
+    "area": "sales",
+    "source_file": "24-SPIN-Selling-Neil-Rackham-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "cb79efc1a02e4eafe5fb50db146823291c185eb85eba6ec8c7cead8daa9099f6",
+    "characters": 424186,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "SPIN questioning sequence",
+        "line": 179,
+        "char_start": 179419
+      },
+      {
+        "keyword": "Implication versus need-payoff",
+        "line": 175,
+        "char_start": 173774
+      }
+    ],
+    "principles": [
+      "알려진 상황 질문을 줄이고 고객 문제를 탐색하라.",
+      "문제의 업무·비용 영향을 고객 근거로 확인하라.",
+      "고객이 해결의 가치를 자기 말로 설명하도록 질문하라.",
+      "대화마다 합의된 다음 행동을 확보하라."
+    ],
+    "limits": "유도 질문으로 고객에게 없는 문제나 손실을 만들어내지 않는다."
+  },
+  {
+    "id": "B25",
+    "title": "Strategic Brand Management",
+    "authors": "Kevin Lane Keller, Vanitha Swaminathan",
+    "area": "brand",
+    "source_file": "25-Strategic-Brand-Management-Kevin-Lane-Keller-Vanitha-Swaminathan-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "ab37f2b8d583706796380f04944513a87831f099886eaee93faf83c9b93a46c6",
+    "characters": 2556801,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "salience",
+        "line": 215,
+        "char_start": 378858
+      },
+      {
+        "keyword": "resonance",
+        "line": 187,
+        "char_start": 308361
+      },
+      {
+        "keyword": "brand equity",
+        "line": 167,
+        "char_start": 261482
+      }
+    ],
+    "principles": [
+      "인지·의미·반응·관계 단계로 브랜드 자산을 진단하라.",
+      "브랜드 요소와 마케팅 프로그램의 일관성을 점검하라.",
+      "브랜드 조사와 추적을 운영 지표에 연결하라.",
+      "확장·포트폴리오·지역화를 적합성과 자산 영향으로 평가하라."
+    ],
+    "limits": "브랜드 호감과 매출의 인과 관계는 별도 검증한다."
+  },
+  {
+    "id": "B26",
+    "title": "Subscribed",
+    "authors": "Tien Tzuo, Gabe Weisert",
+    "area": "success",
+    "source_file": "26-Subscribed-Why-the-Subscription-Model-Will-Be-Your-Company-s-Future-and-What-to-Do-About-It-Tien-Tzuo-Gabe-Weisert-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "c0a07fdebb9a92df121e399ef5081e440a413e52bd528d5565cd84139a174a29",
+    "characters": 412561,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "recurring",
+        "line": 35,
+        "char_start": 57597
+      },
+      {
+        "keyword": "churn",
+        "line": 33,
+        "char_start": 49780
+      },
+      {
+        "keyword": "subscription",
+        "line": 31,
+        "char_start": 43262
+      }
+    ],
+    "principles": [
+      "일회 판매 대신 지속적으로 제공할 고객 결과를 설계하라.",
+      "가치와 사용 방식에 맞는 구독 가격·패키지를 검토하라.",
+      "갱신·해지·확장을 코호트와 반복 수익으로 측정하라.",
+      "사용 피드백을 제품과 관계 개선에 연결하라."
+    ],
+    "limits": "반복 가치가 부족한 상품에 구독을 강요하지 않는다."
+  },
+  {
+    "id": "B27",
+    "title": "The 22 Immutable Laws of Branding",
+    "authors": "Al Ries, Laura Ries",
+    "area": "brand",
+    "source_file": "27-The-22-Immutable-Laws-of-Branding-How-to-Build-a-Product-or-Service-into-a-World-Class-Brand-Al-Ries-Laura-Ries-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "7a3a6fce982033179c931760f1c697e4c24802fc59b91ccd70c4299ca91b00d4",
+    "characters": 381295,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "contraction",
+        "line": 63,
+        "char_start": 63042
+      },
+      {
+        "keyword": "extensions",
+        "line": 77,
+        "char_start": 81672
+      },
+      {
+        "keyword": "name",
+        "line": 49,
+        "char_start": 45308
+      },
+      {
+        "keyword": "publicity",
+        "line": 55,
+        "char_start": 55848
+      }
+    ],
+    "principles": [
+      "브랜드의 초점·범주·기억할 단어를 명확히 하라.",
+      "식별 가능한 이름과 시각 요소를 검토하라.",
+      "확장이 핵심 인식을 흐리는지 시험하라.",
+      "홍보로 신뢰를 얻고 일관된 커뮤니케이션으로 기억을 유지하라."
+    ],
+    "limits": "책의 법칙은 전략 주장이다. 불변의 실증 법칙으로 취급하지 않는다."
+  },
+  {
+    "id": "B28",
+    "title": "The Art of Profitability",
+    "authors": "Adrian Slywotzky",
+    "area": "pricing",
+    "source_file": "28-The-Art-of-Profitability-Adrian-Slywotzky-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "b7220f5e40be592c91cc420dcb0b59b09494254e6bd97873d0b0e9053e6a23c2",
+    "characters": 299163,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "profit models",
+        "line": 53,
+        "char_start": 57824
+      },
+      {
+        "keyword": "customer solutions",
+        "line": 49,
+        "char_start": 54815
+      }
+    ],
+    "principles": [
+      "이익이 어디에서 왜 발생하는지 모델별로 설명하라.",
+      "고객 해결·상품 구성·전문성·시간·규모의 수익 구조를 비교하라.",
+      "수익 고객과 높은 비용 고객의 경제성을 나눠라.",
+      "수익 모델의 전제와 실패 조건을 실험하라."
+    ],
+    "limits": "우화 형태의 모델을 실제 사업 수익 예측으로 대체하지 않는다."
+  },
+  {
+    "id": "B29",
+    "title": "The Challenger Customer",
+    "authors": "Brent Adamson, Matthew Dixon et al.",
+    "area": "sales",
+    "source_file": "29-The-challenger-customer-selling-to-the-hidden-influencer-who-can-multiply-your-results-Adamson-Brent-author-Dixon-Matthew-etc.-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "7b4233613a5d6fc11e7a86bbebc1be42a6651c5f54f90c74716c869da20f39b7",
+    "characters": 642272,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "mobilizer",
+        "line": 109,
+        "char_start": 96563
+      },
+      {
+        "keyword": "consensus",
+        "line": 81,
+        "char_start": 64239
+      }
+    ],
+    "principles": [
+      "호의적인 접촉자와 조직 합의를 만들 수 있는 사람을 구분하라.",
+      "이해관계자의 목표·반대·결정 기준을 기록하라.",
+      "공통 문제 인식과 합의 가능한 변화를 설계하라.",
+      "내부 설득에 쓸 근거·비교·실행 자료를 제공하라."
+    ],
+    "limits": "영향력은 직함·친절함만으로 추정하지 않는다."
+  },
+  {
+    "id": "B30",
+    "title": "The Challenger Sale",
+    "authors": "Matthew Dixon, Brent Adamson",
+    "area": "sales",
+    "source_file": "30-The-Challenger-Sale-Taking-Control-of-the-Customer-Conversation-Matthew-Dixon-Brent-Adamson-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "cc5c9a4348347e67d794ced884937fb3dc602b4905b762317bce4939958c8a7d",
+    "characters": 421438,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "teach",
+        "line": 91,
+        "char_start": 52816
+      },
+      {
+        "keyword": "tailor",
+        "line": 97,
+        "char_start": 57704
+      },
+      {
+        "keyword": "control",
+        "line": 75,
+        "char_start": 42972
+      }
+    ],
+    "principles": [
+      "고객에게 새로운 사업 관점을 근거로 제시하라.",
+      "역할별 목표와 비용에 맞게 통찰을 조정하라.",
+      "변화의 비용과 가치를 고객 데이터로 비교하라.",
+      "상업적 대화와 합의된 다음 단계를 주도하라."
+    ],
+    "limits": "도전은 압박이나 허구의 긴급성을 만드는 행위가 아니다."
+  },
+  {
+    "id": "B31",
+    "title": "The Conversion Code, 2nd Edition",
+    "authors": "Chris Smith",
+    "area": "social",
+    "source_file": "31-The-Conversion-Code-2nd-Edition-Chris-Smith-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "cc286b36ae39dcbf8ade244e58f295b782f243874fa435e37c66cc98b0295567",
+    "characters": 455116,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "conversion",
+        "line": 55,
+        "char_start": 46984
+      },
+      {
+        "keyword": "follow up",
+        "line": 103,
+        "char_start": 111189
+      },
+      {
+        "keyword": "micro content",
+        "line": 89,
+        "char_start": 89267
+      }
+    ],
+    "principles": [
+      "유용한 콘텐츠에서 리드 전환까지 연결 경로를 정하라.",
+      "핵심 긴 콘텐츠를 채널에 맞는 작은 콘텐츠로 바꿔라.",
+      "명확한 CTA·랜딩·리드 후속 대응을 정렬하라.",
+      "리드 수와 상담·판매 전환 품질을 따로 측정하라."
+    ],
+    "limits": "과거 알고리즘·SEO·응답 시간 통계를 현재의 보장 수치로 사용하지 않는다."
+  },
+  {
+    "id": "B32",
+    "title": "The Effortless Experience",
+    "authors": "Matthew Dixon, Nick Toman, Rick DeLisi",
+    "area": "cx",
+    "source_file": "32-The-effortless-experience-conquering-the-new-battleground-for-customer-loyalty-Dixon-Matthew-1972-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "0cf73cbb6f6b98c7e7a1751522eab367720e98e8ab279538cfbc0606578a8092",
+    "characters": 550002,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "effort",
+        "line": 83,
+        "char_start": 56432
+      },
+      {
+        "keyword": "repeat",
+        "line": 89,
+        "char_start": 63867
+      },
+      {
+        "keyword": "resolution",
+        "line": 89,
+        "char_start": 63679
+      }
+    ],
+    "principles": [
+      "놀라운 서비스보다 기본 약속과 문제 해결을 먼저 개선하라.",
+      "반복 문의·전환·정보 재입력의 수고를 줄여라.",
+      "현재 문제와 예상 후속 문제를 함께 해결하라.",
+      "평균 처리시간만이 아니라 재문의와 고객 노력을 측정하라."
+    ],
+    "limits": "문제 해결 맥락의 연구를 모든 브랜드 경험에 일반화하지 않는다."
+  },
+  {
+    "id": "B33",
+    "title": "The Fall of Advertising and the Rise of PR",
+    "authors": "Al Ries, Laura Ries",
+    "area": "social",
+    "source_file": "33-The-Fall-of-Advertising-and-the-Rise-of-PR-Al-Ries-Laura-Ries-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "6f9066e724383091684246a8c60742d529210ea34274dc43c2550ee496401e56",
+    "characters": 385829,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "credibility",
+        "line": 99,
+        "char_start": 57753
+      },
+      {
+        "keyword": "publicity",
+        "line": 141,
+        "char_start": 83863
+      },
+      {
+        "keyword": "third party",
+        "line": 217,
+        "char_start": 135061
+      }
+    ],
+    "principles": [
+      "제삼자 검증과 보도 가치가 있는 사실을 확보하라.",
+      "브랜드의 새로운 이야기를 홍보 관점으로 설계하라.",
+      "홍보로 생긴 인식을 후속 광고와 일관되게 연결하라.",
+      "관심·신뢰·실제 전환을 구분해 측정하라."
+    ],
+    "limits": "광고가 늘 무효라는 주장을 채택하지 말고 유료·획득 매체를 비교 실험한다."
+  },
+  {
+    "id": "B34",
+    "title": "The Tipping Point",
+    "authors": "Malcolm Gladwell",
+    "area": "social",
+    "source_file": "34-The-Tipping-Point-How-Little-Things-Can-Make-a-Big-Difference-Malcolm-Gladwell-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "ae5e7ca8694408541d998b82e97e6ac55f0769f655959927871a172a7f06efe9",
+    "characters": 483943,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "stickiness",
+        "line": 29,
+        "char_start": 50386
+      },
+      {
+        "keyword": "context",
+        "line": 29,
+        "char_start": 50223
+      },
+      {
+        "keyword": "few",
+        "line": 29,
+        "char_start": 50377
+      }
+    ],
+    "principles": [
+      "확산을 사람·메시지·환경 요소로 나눠 가설화하라.",
+      "연결·정보·설득 역할을 가진 전달자를 찾아라.",
+      "기억과 공유를 돕는 메시지 구조를 시험하라.",
+      "공유가 일어나는 상황과 참여 장벽을 조절하라."
+    ],
+    "limits": "흥미로운 사례가 바이럴 확률이나 성과 보장을 의미하지 않는다."
+  },
+  {
+    "id": "B35",
+    "title": "The Zero Marginal Cost Society",
+    "authors": "Jeremy Rifkin",
+    "area": "innovation",
+    "source_file": "35-The-Zero-Marginal-Cost-Society-The-Internet-of-Things-the-Collaborative-Commons-and-the-Eclipse-of-Capitalism-Rifkin-Jeremy-Rifkin-Jeremy-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "b611b2e2ebed8f27ebb48a555baad6a315372ed00d26444d87de07aa284ed121",
+    "characters": 1017172,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "marginal cost",
+        "line": 63,
+        "char_start": 129759
+      },
+      {
+        "keyword": "commons",
+        "line": 53,
+        "char_start": 103271
+      }
+    ],
+    "principles": [
+      "추가 고객에 대한 한계 비용과 고정 비용을 분리하라.",
+      "공유·네트워크·접근 모델의 기회를 탐색하라.",
+      "무료 제공에서 유료 가치 회수까지 경로를 정의하라.",
+      "데이터·인프라·신뢰·운영 비용을 포함하라."
+    ],
+    "limits": "사회 변화 전망은 시나리오이며 무비용·무손실을 뜻하지 않는다."
+  },
+  {
+    "id": "B36",
+    "title": "統計学が最強の学問である",
+    "authors": "西内啓 (Hiroshi Nishiuchi)",
+    "area": "measurement",
+    "source_file": "36-T-keigaku-ga-saiky-no-gakumon-de-aru-d-ta-shakai-o-ikinuku-tame-no-buki-to-ky-y-Nishiuchi-Hi...-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "b4bf501c819faed39ca5579c5dbf5955de42450f3a5f35b3fd2db73bab97ad36",
+    "characters": 270300,
+    "status": "partial_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "誤差",
+        "line": 139,
+        "char_start": 55236
+      },
+      {
+        "keyword": "因果",
+        "line": 139,
+        "char_start": 55241
+      }
+    ],
+    "principles": [
+      "읽을 수 있는 장 제목에서 오차·인과·무작위화 주제만 식별하라.",
+      "손상된 본문에서 구체적 통계 절차나 저자의 결론을 복원하지 말라."
+    ],
+    "limits": "심한 OCR 손상으로 부분 검토만 가능. 실험 절차는 에이전트 설계 규칙으로 별도 표시한다.",
+    "language": "ja"
+  },
+  {
+    "id": "B37",
+    "title": "Transforming Your Go-to-Market Strategy",
+    "authors": "V. Kasturi Rangan",
+    "area": "retail",
+    "source_file": "37-Transforming-your-go-to-market-strategy-the-three-disciplines-of-channel-management-Rangan-V.-Kasturi-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "37646181948fd88b611f1ca002bb377d7e3fb9d8523f527a650b7d23495b25dd",
+    "characters": 738419,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "stewardship",
+        "line": 75,
+        "char_start": 73882
+      },
+      {
+        "keyword": "value chain",
+        "line": 77,
+        "char_start": 75889
+      }
+    ],
+    "principles": [
+      "고객 요구에서 시작해 채널 가치 사슬을 그려라.",
+      "각 채널의 가치·비용·역할을 평가하라.",
+      "파트너 유인과 정보 흐름을 정렬하라.",
+      "채널 전체 성과를 개선하는 조정 책임을 정하라."
+    ],
+    "limits": "자사 마진 개선이 다른 파트너의 지속 가능성을 해치는지 확인한다."
+  },
+  {
+    "id": "B38",
+    "title": "Tribal Knowledge",
+    "authors": "John Moore",
+    "area": "brand",
+    "source_file": "38-Tribal-Knowledge-Business-Wisdom-Brewed-from-the-Grounds-of-Starbucks-Corporate-Culture-John-Moore-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "80bc5ee452a004f783d841262a0e486f3d30c6fb5d4bdfaad41d3904fc2a9b52",
+    "characters": 256491,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "three strategies",
+        "line": 57,
+        "char_start": 51062
+      },
+      {
+        "keyword": "employees",
+        "line": 37,
+        "char_start": 30911
+      },
+      {
+        "keyword": "experience",
+        "line": 33,
+        "char_start": 25815
+      }
+    ],
+    "principles": [
+      "성장을 신규 고객·구매 빈도와 양·가격으로 분해하라.",
+      "브랜드 약속이 매장과 직원 행동으로 드러나게 하라.",
+      "이야기와 경험을 공유할 이유를 제공하라.",
+      "직원 열정·참여·문화가 고객 경험에 미치는 경로를 점검하라."
+    ],
+    "limits": "특정 기업 문화와 성과의 연결을 보편 인과로 단정하지 않는다."
+  },
+  {
+    "id": "B39",
+    "title": "What Sticks",
+    "authors": "Rex Briggs, Greg Stuart",
+    "area": "measurement",
+    "source_file": "39-What-sticks-why-most-advertising-fails-and-how-to-guarantee-yours-succeeds-Briggs-Rex-1971-Stuart-Greg-1959-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "a0912f139392257e6bb749ed47a1078966bf3183e5deaeeca7d975f22c3d2ab4",
+    "characters": 584874,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "measurement",
+        "line": 79,
+        "char_start": 62410
+      },
+      {
+        "keyword": "motivations",
+        "line": 79,
+        "char_start": 61889
+      },
+      {
+        "keyword": "messaging",
+        "line": 177,
+        "char_start": 156292
+      },
+      {
+        "keyword": "media",
+        "line": 79,
+        "char_start": 62029
+      }
+    ],
+    "principles": [
+      "고객 동기·메시지·매체·측정을 함께 설계하라.",
+      "성과 측정 결과가 실행 결정으로 이어지게 하라.",
+      "직관적 광고 선호를 고객 반응 실험과 비교하라.",
+      "예산을 검증된 실행과 새로운 학습에 나눠라."
+    ],
+    "limits": "책의 배분 비율은 기본값으로 강제하지 말고 사업별로 조정한다."
+  },
+  {
+    "id": "B40",
+    "title": "Why We Buy",
+    "authors": "Paco Underhill",
+    "area": "retail",
+    "source_file": "40-Why-We-Buy-The-Science-of-Shopping-Paco-Underhill-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "e5a4dbaf0990d6d0dbf264ecfe72207d730e24e65b6b0c53540785771410691e",
+    "characters": 478240,
+    "status": "readable_ocr",
+    "review_scope": "metadata, thematic keyword passages and distributed body samples; not sentence-by-sentence verification",
+    "locators": [
+      {
+        "keyword": "observation",
+        "line": 57,
+        "char_start": 74981
+      },
+      {
+        "keyword": "transition",
+        "line": 53,
+        "char_start": 69153
+      },
+      {
+        "keyword": "butt-brush",
+        "line": 133,
+        "char_start": 211395
+      }
+    ],
+    "principles": [
+      "설문뿐 아니라 실제 이동·시선·접촉·구매를 관찰하라.",
+      "입구 전환 구역·표지·배치·편의의 장애를 찾아라.",
+      "함께 구매할 상품을 고객 맥락에 맞게 제시하라.",
+      "환경 변화 전후의 행동과 전환을 비교하라."
+    ],
+    "limits": "과거 성별·연령 관찰을 현재 개인에 대한 고정관념으로 사용하지 않는다."
+  }
+]

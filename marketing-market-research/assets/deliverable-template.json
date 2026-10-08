@@ -1,0 +1,24 @@
+{
+  "task_id": "",
+  "skill": "marketing-market-research",
+  "facts": [],
+  "assumptions": [],
+  "deliverables": [
+    "세그먼트 표: 상황, 문제, 대안, 근거 ID, 가설, 접근성",
+    "조사 계획서·중립적 질문·경쟁 대안 비교표",
+    "권고 시장·보류 시장·가설 검증 계획"
+  ],
+  "claim_evidence": [],
+  "decisions": [],
+  "risks": [],
+  "next_actions": [],
+  "status": "draft",
+  "research_plan": {},
+  "segment_criteria": [
+    "measurable",
+    "accessible",
+    "substantial",
+    "differentiable",
+    "actionable"
+  ]
+}

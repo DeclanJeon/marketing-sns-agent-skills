@@ -1,0 +1,13 @@
+{
+  "configuration_hash": "COMPUTE_WITH_calibration_fingerprint",
+  "sample_count": 0,
+  "evaluation_id": "",
+  "actual_models": [],
+  "actual_providers": [],
+  "valid_until": "",
+  "dataset_version": "",
+  "domain_id": "",
+  "holdout_metrics": {},
+  "reviewer": "",
+  "notes": "Example template only. Fill from a real domain evaluation; sample_count=0 intentionally prevents activation."
+}

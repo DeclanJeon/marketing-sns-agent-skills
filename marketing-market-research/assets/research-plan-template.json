@@ -1,0 +1,30 @@
+{
+  "business_decision": "",
+  "research_question": "",
+  "research_type": "exploratory/descriptive/causal",
+  "population": "",
+  "unit_of_analysis": "",
+  "existing_sources": [],
+  "method": "",
+  "sampling": {
+    "recruitment_frame": "",
+    "selection_method": "",
+    "sample_size": null,
+    "size_rationale": "",
+    "response_rate": null,
+    "biases": []
+  },
+  "instrument": {
+    "questions": [],
+    "pilot_checks": []
+  },
+  "segment_validation": {
+    "measurable": null,
+    "accessible": null,
+    "substantial": null,
+    "differentiable": null,
+    "actionable": null
+  },
+  "generalization_limits": [],
+  "next_evidence_needed": []
+}

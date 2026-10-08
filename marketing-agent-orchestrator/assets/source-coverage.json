@@ -1,0 +1,1557 @@
+{
+  "version": "1.1",
+  "full_book_review_complete": false,
+  "review_method": "주요 주제 구절·목차·분산 본문 표본 검토. 원칙별 독립 검증과 전체 장별 커버리지는 미완료.",
+  "sources": [
+    {
+      "source_id": "B01",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B01-P01",
+          "statement": "제품·고객의 구체적 자료와 넓은 분야의 자료를 함께 모아라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B01-P02",
+          "statement": "자료 사이 관계를 찾아 여러 조합을 만들어라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B01-P03",
+          "statement": "집중 검토 뒤 다른 작업으로 전환하고 다시 검토하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B01-P04",
+          "statement": "떠오른 아이디어를 실행 조건과 고객 반응에 맞게 다듬어라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B02",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B02-P01",
+          "statement": "브랜드를 단기 캠페인보다 오래가는 사업 자산으로 다뤄라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B02-P02",
+          "statement": "기능·정서·자기표현 이익을 나누고 핵심 비전을 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B02-P03",
+          "statement": "브랜드 포트폴리오의 역할과 관계를 명시하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B02-P04",
+          "statement": "자산을 일관되게 유지하고 확장은 적합성과 시너지를 검토하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B03",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B03-P01",
+          "statement": "고객 자신의 선호·타인의 정보·마케터 영향의 상대적 비중을 조사하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B03-P02",
+          "statement": "비교 가능한 실제 성능과 사용 경험을 구매 지점에 제공하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B03-P03",
+          "statement": "리뷰와 전문가 평가의 신뢰성·대표성을 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B03-P04",
+          "statement": "브랜드 설득과 정보 제공의 비중을 카테고리별로 조절하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B04",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B04-P01",
+          "statement": "문의 발생 뒤 대응뿐 아니라 문제 예방을 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B04-P02",
+          "statement": "고객의 소리를 빈도·영향·원인별로 묶어라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B04-P03",
+          "statement": "선제 안내와 접근하기 쉬운 도움 채널을 마련하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B04-P04",
+          "statement": "불만 비용과 개선 편익을 추정해 우선순위를 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B05",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B05-P01",
+          "statement": "고객이 원하는 결과와 최초 가치 도달 조건을 합의하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B05-P02",
+          "statement": "건강도 지표를 사용·성과·관계·위험 신호로 나눠라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B05-P03",
+          "statement": "고객 가치와 복잡도에 맞게 high/low/tech touch를 배분하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B05-P04",
+          "statement": "온보딩·갱신·확장 개입을 사후 대응 대신 선제 실행하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B06",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B06-P01",
+          "statement": "양극단만 보지 말고 분포와 중간 집단을 확인하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B06-P02",
+          "statement": "절대 수치에 분모·기준기간·비교 대상을 붙여라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B06-P03",
+          "statement": "극적인 사례와 전체 추세를 구분하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B06-P04",
+          "statement": "긴급성·단일 원인·단순 직선 예측을 반증 자료와 함께 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B07",
+      "status": "empty",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B07-P01",
+          "statement": "첨부 파일이 공백뿐이므로 본문 원칙을 추출하지 않는다.",
+          "origin": "source_limit_note",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B08",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B08-P01",
+          "statement": "브랜드 성장에서 구매자 수와 침투율을 먼저 조사하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B08-P02",
+          "statement": "가벼운 구매자를 포함한 카테고리 구매자 도달을 확인하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B08-P03",
+          "statement": "구매 상황에서 떠오르는 기억과 실제 구매 접근성을 함께 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B08-P04",
+          "statement": "식별 자산을 일관되게 사용하고 할인 매출의 순증 효과를 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B09",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B09-P01",
+          "statement": "기존 사업 개선과 새 사업 탐색의 과제를 분리하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B09-P02",
+          "statement": "탐색에는 학습·검증 지표, 기존 사업에는 효율·수익 지표를 적용하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B09-P03",
+          "statement": "각 조직의 자율성과 공동 방향을 동시에 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B09-P04",
+          "statement": "리더가 자원 배분과 자기잠식 갈등을 책임지게 하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B10",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B10-P01",
+          "statement": "제품 종류 대신 고객이 얻으려는 결과로 시장을 정의하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B10-P02",
+          "statement": "직접 경쟁뿐 아니라 같은 일을 해결하는 대안을 찾으라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B10-P03",
+          "statement": "제품에 배송·결제·지원·관계를 포함한 총가치를 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B10-P04",
+          "statement": "차별화와 서비스 표준화 기회를 고객 관점에서 찾으라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B11",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B11-P01",
+          "statement": "한 문장으로 핵심을 정하고 이해에 필요한 맥락을 남겨라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B11-P02",
+          "statement": "관련 있는 놀라움과 정보 공백으로 관심을 이어라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B11-P03",
+          "statement": "구체적 장면과 검증 가능한 근거로 이해와 신뢰를 돕게 하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B11-P04",
+          "statement": "고객의 의미와 행동을 보여주는 이야기로 다음 행동을 연결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B12",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B12-P01",
+          "statement": "고객 행동과 조직 제공 가치를 같은 여정에 놓아라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B12-P02",
+          "statement": "인터뷰·관찰 근거로 접점과 막힘을 기록하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B12-P03",
+          "statement": "고객에게 보이는 단계와 내부 프로세스를 연결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B12-P04",
+          "statement": "맵마다 범위·대상·근거·담당자·개선 결정을 명시하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B13",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B13-P01",
+          "statement": "고객을 기능적 수요와 가치관을 가진 사람으로 이해하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B13-P02",
+          "statement": "기업의 미션·가치·실제 운영의 일치를 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B13-P03",
+          "statement": "고객·직원·파트너의 참여를 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B13-P04",
+          "statement": "사회적 약속을 검증 가능한 행동과 지표에 연결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B14",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B14-P01",
+          "statement": "매출로 이어질 고객 행동을 먼저 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B14-P02",
+          "statement": "관습에서 벗어난 제안을 고객 관련성과 결합하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B14-P03",
+          "statement": "이미 보유한 고객·접점·파트너 자산을 활용하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B14-P04",
+          "statement": "작은 예산 실험으로 반응과 실매출을 확인하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B15",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B15-P01",
+          "statement": "고객이 회사를 평가하는 중요한 접점을 찾아라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B15-P02",
+          "statement": "접점 담당자에게 해결 정보와 권한을 제공하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B15-P03",
+          "statement": "관리 역할을 현장 지원과 장애 제거 중심으로 바꿔라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B15-P04",
+          "statement": "공통 고객 목표와 피드백으로 자율적 의사결정을 정렬하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B16",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B16-P01",
+          "statement": "제품·사용자·경쟁 자료를 조사한 뒤 광고를 써라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B16-P02",
+          "statement": "고객에게 의미 있고 입증 가능한 약속을 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B16-P03",
+          "statement": "헤드라인·시각·본문이 같은 판매 논지를 전달하게 하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B16-P04",
+          "statement": "한 번에 한 요소를 바꿔 구매 행동으로 효과를 시험하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B17",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B17-P01",
+          "statement": "내부와 외부의 아이디어·기술 자원을 함께 탐색하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B17-P02",
+          "statement": "가치 창출과 가치 회수의 사업 모델을 구분하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B17-P03",
+          "statement": "직접 사업화·제휴·라이선스 경로를 비교하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B17-P04",
+          "statement": "파트너별 역할·권리·수익 배분·검증 단계를 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B18",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B18-P01",
+          "statement": "고객 머릿속 기존 범주와 비교 대안을 조사하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B18-P02",
+          "statement": "기억하기 쉬운 한 가지 위치를 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B18-P03",
+          "statement": "선도자 모방 대신 의미 있는 빈자리를 검토하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B18-P04",
+          "statement": "이름·메시지·확장이 기존 인식을 어떻게 바꾸는지 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B19",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B19-P01",
+          "statement": "원가뿐 아니라 고객 가치·대안·가격 반응을 조사하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B19-P02",
+          "statement": "가격·수량·단위 이익의 시나리오를 함께 계산하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B19-P03",
+          "statement": "고객·상품·시간별 가격 차이와 번들 조건을 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B19-P04",
+          "statement": "가격 결정 책임과 실행·측정 프로세스를 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B20",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B20-P01",
+          "statement": "고객·경쟁·환경 조사를 통해 기회를 정의하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B20-P02",
+          "statement": "시장 세분화·표적 선택·포지셔닝을 연결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B20-P03",
+          "statement": "제품·가격·유통·촉진을 하나의 가치 제안으로 정렬하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B20-P04",
+          "statement": "고객 관계와 마케팅 성과를 함께 관리하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B21",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B21-P01",
+          "statement": "오프라인 매장을 판매와 경험·미디어 접점으로 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B21-P02",
+          "statement": "온라인과 현장 접점 사이 인계 마찰을 찾아라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B21-P03",
+          "statement": "체험·서비스·편의의 차별성을 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B21-P04",
+          "statement": "방문·참여·구매·후속 행동으로 공간 가치를 측정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B22",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B22-P01",
+          "statement": "현장과 경쟁 매장에서 직접 학습하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B22-P02",
+          "statement": "운영 비용과 고객 제공 가격의 연결을 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B22-P03",
+          "statement": "직원을 파트너로 보고 정보와 성과를 공유하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B22-P04",
+          "statement": "작은 개선을 반복하고 지역 고객의 반응을 확인하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B23",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B23-P01",
+          "statement": "서비스의 상품·가격·접근·촉진·사람·과정·물리적 증거를 정렬하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B23-P02",
+          "statement": "고객 참여와 내부 과정의 실패 지점을 설계도로 찾아라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B23-P03",
+          "statement": "수요·공급 용량·대기 시간을 관리하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B23-P04",
+          "statement": "직원 역량·불만 회복·품질·생산성을 함께 측정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B24",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B24-P01",
+          "statement": "알려진 상황 질문을 줄이고 고객 문제를 탐색하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B24-P02",
+          "statement": "문제의 업무·비용 영향을 고객 근거로 확인하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B24-P03",
+          "statement": "고객이 해결의 가치를 자기 말로 설명하도록 질문하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B24-P04",
+          "statement": "대화마다 합의된 다음 행동을 확보하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B25",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B25-P01",
+          "statement": "인지·의미·반응·관계 단계로 브랜드 자산을 진단하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B25-P02",
+          "statement": "브랜드 요소와 마케팅 프로그램의 일관성을 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B25-P03",
+          "statement": "브랜드 조사와 추적을 운영 지표에 연결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B25-P04",
+          "statement": "확장·포트폴리오·지역화를 적합성과 자산 영향으로 평가하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B26",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B26-P01",
+          "statement": "일회 판매 대신 지속적으로 제공할 고객 결과를 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B26-P02",
+          "statement": "가치와 사용 방식에 맞는 구독 가격·패키지를 검토하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B26-P03",
+          "statement": "갱신·해지·확장을 코호트와 반복 수익으로 측정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B26-P04",
+          "statement": "사용 피드백을 제품과 관계 개선에 연결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B27",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B27-P01",
+          "statement": "브랜드의 초점·범주·기억할 단어를 명확히 하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B27-P02",
+          "statement": "식별 가능한 이름과 시각 요소를 검토하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B27-P03",
+          "statement": "확장이 핵심 인식을 흐리는지 시험하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B27-P04",
+          "statement": "홍보로 신뢰를 얻고 일관된 커뮤니케이션으로 기억을 유지하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B28",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B28-P01",
+          "statement": "이익이 어디에서 왜 발생하는지 모델별로 설명하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B28-P02",
+          "statement": "고객 해결·상품 구성·전문성·시간·규모의 수익 구조를 비교하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B28-P03",
+          "statement": "수익 고객과 높은 비용 고객의 경제성을 나눠라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B28-P04",
+          "statement": "수익 모델의 전제와 실패 조건을 실험하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B29",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B29-P01",
+          "statement": "호의적인 접촉자와 조직 합의를 만들 수 있는 사람을 구분하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B29-P02",
+          "statement": "이해관계자의 목표·반대·결정 기준을 기록하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B29-P03",
+          "statement": "공통 문제 인식과 합의 가능한 변화를 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B29-P04",
+          "statement": "내부 설득에 쓸 근거·비교·실행 자료를 제공하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B30",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B30-P01",
+          "statement": "고객에게 새로운 사업 관점을 근거로 제시하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B30-P02",
+          "statement": "역할별 목표와 비용에 맞게 통찰을 조정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B30-P03",
+          "statement": "변화의 비용과 가치를 고객 데이터로 비교하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B30-P04",
+          "statement": "상업적 대화와 합의된 다음 단계를 주도하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B31",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B31-P01",
+          "statement": "유용한 콘텐츠에서 리드 전환까지 연결 경로를 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B31-P02",
+          "statement": "핵심 긴 콘텐츠를 채널에 맞는 작은 콘텐츠로 바꿔라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B31-P03",
+          "statement": "명확한 CTA·랜딩·리드 후속 대응을 정렬하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B31-P04",
+          "statement": "리드 수와 상담·판매 전환 품질을 따로 측정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B32",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B32-P01",
+          "statement": "놀라운 서비스보다 기본 약속과 문제 해결을 먼저 개선하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B32-P02",
+          "statement": "반복 문의·전환·정보 재입력의 수고를 줄여라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B32-P03",
+          "statement": "현재 문제와 예상 후속 문제를 함께 해결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B32-P04",
+          "statement": "평균 처리시간만이 아니라 재문의와 고객 노력을 측정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B33",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B33-P01",
+          "statement": "제삼자 검증과 보도 가치가 있는 사실을 확보하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B33-P02",
+          "statement": "브랜드의 새로운 이야기를 홍보 관점으로 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B33-P03",
+          "statement": "홍보로 생긴 인식을 후속 광고와 일관되게 연결하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B33-P04",
+          "statement": "관심·신뢰·실제 전환을 구분해 측정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B34",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B34-P01",
+          "statement": "확산을 사람·메시지·환경 요소로 나눠 가설화하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B34-P02",
+          "statement": "연결·정보·설득 역할을 가진 전달자를 찾아라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B34-P03",
+          "statement": "기억과 공유를 돕는 메시지 구조를 시험하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B34-P04",
+          "statement": "공유가 일어나는 상황과 참여 장벽을 조절하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B35",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B35-P01",
+          "statement": "추가 고객에 대한 한계 비용과 고정 비용을 분리하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B35-P02",
+          "statement": "공유·네트워크·접근 모델의 기회를 탐색하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B35-P03",
+          "statement": "무료 제공에서 유료 가치 회수까지 경로를 정의하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B35-P04",
+          "statement": "데이터·인프라·신뢰·운영 비용을 포함하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B36",
+      "status": "partial_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B36-P01",
+          "statement": "읽을 수 있는 장 제목에서 오차·인과·무작위화 주제만 식별하라.",
+          "origin": "source_limit_note",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B36-P02",
+          "statement": "손상된 본문에서 구체적 통계 절차나 저자의 결론을 복원하지 말라.",
+          "origin": "source_limit_note",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B37",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B37-P01",
+          "statement": "고객 요구에서 시작해 채널 가치 사슬을 그려라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B37-P02",
+          "statement": "각 채널의 가치·비용·역할을 평가하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B37-P03",
+          "statement": "파트너 유인과 정보 흐름을 정렬하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B37-P04",
+          "statement": "채널 전체 성과를 개선하는 조정 책임을 정하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B38",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B38-P01",
+          "statement": "성장을 신규 고객·구매 빈도와 양·가격으로 분해하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B38-P02",
+          "statement": "브랜드 약속이 매장과 직원 행동으로 드러나게 하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B38-P03",
+          "statement": "이야기와 경험을 공유할 이유를 제공하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B38-P04",
+          "statement": "직원 열정·참여·문화가 고객 경험에 미치는 경로를 점검하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B39",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B39-P01",
+          "statement": "고객 동기·메시지·매체·측정을 함께 설계하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B39-P02",
+          "statement": "성과 측정 결과가 실행 결정으로 이어지게 하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B39-P03",
+          "statement": "직관적 광고 선호를 고객 반응 실험과 비교하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B39-P04",
+          "statement": "예산을 검증된 실행과 새로운 학습에 나눠라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    },
+    {
+      "source_id": "B40",
+      "status": "readable_ocr",
+      "full_chapter_coverage_verified": false,
+      "principles": [
+        {
+          "id": "B40-P01",
+          "statement": "설문뿐 아니라 실제 이동·시선·접촉·구매를 관찰하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B40-P02",
+          "statement": "입구 전환 구역·표지·배치·편의의 장애를 찾아라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B40-P03",
+          "statement": "함께 구매할 상품을 고객 맥락에 맞게 제시하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        },
+        {
+          "id": "B40-P04",
+          "statement": "환경 변화 전후의 행동과 전환을 비교하라.",
+          "origin": "operational_reconstruction",
+          "verification": "thematic_review_only",
+          "support_ranges": [],
+          "remaining_work": "검토 구절과 개별 처방 연결; 누락 장의 주제 점검"
+        }
+      ]
+    }
+  ],
+  "verified_framework_ranges": [
+    {
+      "source_id": "B20",
+      "framework": "조사 목적·설계·표본·세그먼트 조건",
+      "lines": [
+        393,
+        419,
+        639
+      ],
+      "origin": "source_derived_topics_with_agent_designed_workflow"
+    },
+    {
+      "source_id": "B24",
+      "framework": "SPIN 질문 단계와 제한",
+      "lines": [
+        175,
+        179
+      ],
+      "origin": "source_derived_topics"
+    },
+    {
+      "source_id": "B37",
+      "framework": "산업 지도·가치 사슬 편집·정렬/영향",
+      "lines": [
+        81,
+        81
+      ],
+      "origin": "source_derived_topics"
+    }
+  ]
+}

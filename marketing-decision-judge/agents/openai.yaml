@@ -1,0 +1,13 @@
+interface:
+  display_name: Jev 판단·공급자 선택
+  short_description: Jev와 대체 모델을 선택해 마케팅 주장을 참·거짓·검토 필요로 판단합니다
+  default_prompt: $marketing-decision-judge 스킬로 주장과 근거를 검수하고 사용할 모델과 공급자를 선택해줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

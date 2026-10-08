@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "B01",
+    "title": "Traction",
+    "author": "Gabriel Weinberg, Justin Mares",
+    "uploaded_filename": "01-Traction-a-startup-guide-to-getting-customers-Gabriel-Weinberg-Justin-Mares-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "15dca6f2c7950b5a9b01a54f0d1844e0762618447b6a0433a82d7e186894cf0f",
+    "locator": "line 31; search: Bullseye",
+    "operational_principle": "채널 발산·우선순위·작은 실험·집중; 획득 비용과 규모·적합한 고객 확인"
+  },
+  {
+    "source_id": "B05",
+    "title": "Content Inc., Second Edition",
+    "author": "Joe Pulizzi",
+    "uploaded_filename": "05-Content-Inc.-Second-Edition-Start-a-Content-First-Business-Build-a-Massive-Audience-and-Become-Radically-Successful-With-Joe-Pulizzi-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "5f2a2491731de3d24b684b898714576692636b3306c79ad4c1d7e2e0a002f857",
+    "locator": "line 121; search: content tilt",
+    "operational_principle": "역량과 고객 관심의 접점·독특한 관점·핵심 매체·구독 관계·수익화; 성급한 전 채널 확장 방지"
+  },
+  {
+    "source_id": "B06",
+    "title": "Launch",
+    "author": "Jeff Walker",
+    "uploaded_filename": "06-Launch-An-Internet-Millionaires-Secret-Formula-To-Sell-Almost-Anything-Online-Build-A-Business-You-Love-And-Live-The-Life-Jeff-Walker-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "373a343547aa601690f515ef4689869bd681a3fedd2fed3211cad137e67f9a91",
+    "locator": "line 83; search: prelaunch",
+    "operational_principle": "고객 질문 수집·사전 가치 제공·시연·오픈·후속 대응의 순서; 실제 조건에 따른 런칭"
+  },
+  {
+    "source_id": "B09",
+    "title": "Show Your Work!",
+    "author": "Austin Kleon",
+    "uploaded_filename": "09-Show-your-work-10-ways-to-share-your-creativity-and-get-discovered-Austin-Kleon-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "45825e6870ed75dc15207d8735d79e0c9d57befb44c3dfe7f824e0b9e082a8c9",
+    "locator": "line 99; search: process",
+    "operational_principle": "작은 작업 과정·배운 내용·제작 맥락을 꾸준히 공유하고 출처·관계를 존중"
+  }
+]

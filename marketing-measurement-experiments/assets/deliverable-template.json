@@ -1,0 +1,16 @@
+{
+  "task_id": "",
+  "skill": "marketing-measurement-experiments",
+  "facts": [],
+  "assumptions": [],
+  "deliverables": [
+    "KPI 사전: 공식, 분모, 기간, 출처, 한계",
+    "실험 계획서·결과·불확실성·오류 위험",
+    "계속/수정/중단 권고와 근거"
+  ],
+  "claim_evidence": [],
+  "decisions": [],
+  "risks": [],
+  "next_actions": [],
+  "status": "draft"
+}

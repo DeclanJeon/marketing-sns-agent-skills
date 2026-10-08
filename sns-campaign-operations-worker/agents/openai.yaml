@@ -1,0 +1,13 @@
+interface:
+  display_name: SNS 제작·배포 운영 워커
+  short_description: 완성 채널 원고를 제작 인계·게시 전 검증·실제 실행 기록으로 연결합니다
+  default_prompt: $sns-campaign-operations-worker로 캠페인의 제작·게시 준비와 실행 상태를 점검해줘.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true

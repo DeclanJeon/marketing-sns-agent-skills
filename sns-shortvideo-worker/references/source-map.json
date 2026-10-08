@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "B03",
+    "title": "Contagious",
+    "author": "Jonah Berger",
+    "uploaded_filename": "03-Contagious-Jonah-Berger-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "b31e8e5ffa40297fca66c29d407fbaa5e1c5b362b9ad25fc1fe7199f5c191442",
+    "locator": "line 33; search: Principle 1: Social Currency",
+    "operational_principle": "공유 동기를 사회적 표현·일상 계기·감정·관찰 가능성·유용함·이야기로 설계"
+  },
+  {
+    "source_id": "B07",
+    "title": "Made to Stick",
+    "author": "Chip Heath, Dan Heath",
+    "uploaded_filename": "07-Made-to-Stick-Why-Some-Ideas-Survive-and-Others-Die-Chip-Heath-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "44057e202d7ac0dae541e41fef20395cd79c5507895f3a00eab0375014b94119",
+    "locator": "line 215; search: Concreteness",
+    "operational_principle": "핵심 압축·예상 밖 발견·구체성·신뢰 근거·감정·이야기로 이해와 기억을 돕기"
+  },
+  {
+    "source_id": "B09",
+    "title": "Show Your Work!",
+    "author": "Austin Kleon",
+    "uploaded_filename": "09-Show-your-work-10-ways-to-share-your-creativity-and-get-discovered-Austin-Kleon-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "45825e6870ed75dc15207d8735d79e0c9d57befb44c3dfe7f824e0b9e082a8c9",
+    "locator": "line 99; search: process",
+    "operational_principle": "작은 작업 과정·배운 내용·제작 맥락을 꾸준히 공유하고 출처·관계를 존중"
+  }
+]

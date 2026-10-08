@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "B03",
+    "title": "Contagious",
+    "author": "Jonah Berger",
+    "uploaded_filename": "03-Contagious-Jonah-Berger-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "b31e8e5ffa40297fca66c29d407fbaa5e1c5b362b9ad25fc1fe7199f5c191442",
+    "locator": "line 33; search: Principle 1: Social Currency",
+    "operational_principle": "공유 동기를 사회적 표현·일상 계기·감정·관찰 가능성·유용함·이야기로 설계"
+  },
+  {
+    "source_id": "B09",
+    "title": "Show Your Work!",
+    "author": "Austin Kleon",
+    "uploaded_filename": "09-Show-your-work-10-ways-to-share-your-creativity-and-get-discovered-Austin-Kleon-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "45825e6870ed75dc15207d8735d79e0c9d57befb44c3dfe7f824e0b9e082a8c9",
+    "locator": "line 99; search: process",
+    "operational_principle": "작은 작업 과정·배운 내용·제작 맥락을 꾸준히 공유하고 출처·관계를 존중"
+  },
+  {
+    "source_id": "B10",
+    "title": "The Mom Test",
+    "author": "Rob Fitzpatrick",
+    "uploaded_filename": "10-The-Mom-Test-how-to-talk-to-customers-and-learn-if-your-business-is-a-good-idea-when-everybody-is-lying-to-you-Rob-Fitzpatrick-z-library.sk-1lib.sk-z-lib.sk-.md",
+    "sha256": "d8a0e65b916965b87737ff7e3db8e28d2a9630c2c36472116ac12b2e5408b0df",
+    "locator": "line 23; search: The Mom Test:",
+    "operational_principle": "과거 행동·구체적 문제·실제 대안과 시간/돈/관계의 투입으로 학습; 칭찬을 수요로 해석하지 않기"
+  }
+]

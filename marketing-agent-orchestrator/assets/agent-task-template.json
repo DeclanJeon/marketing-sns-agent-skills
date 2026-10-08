@@ -1,0 +1,19 @@
+{
+  "task_id": "",
+  "assigned_skill": "",
+  "objective": "",
+  "input_artifacts": [],
+  "evidence_ids": [],
+  "dependencies": [],
+  "deliverable_contract": [],
+  "acceptance_criteria": [],
+  "authorization_scope": {},
+  "judge_checks": [],
+  "output": {
+    "facts": [],
+    "assumptions": [],
+    "artifacts": [],
+    "blocked": [],
+    "next_owner": ""
+  }
+}

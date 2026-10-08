@@ -1,0 +1,45 @@
+{
+  "task_id": "",
+  "task_type": "",
+  "product": {
+    "name": "",
+    "facts": [],
+    "price": null,
+    "currency": "KRW"
+  },
+  "audience": {
+    "buyer": "",
+    "user": "",
+    "decision_maker": "",
+    "situation": ""
+  },
+  "objective": {
+    "behavior": "",
+    "primary_kpi": "",
+    "baseline": null,
+    "target": null,
+    "period": ""
+  },
+  "channels": [],
+  "constraints": {
+    "budget": null,
+    "deadline": "",
+    "tone": "",
+    "must_include": [],
+    "must_avoid": []
+  },
+  "evidence": [],
+  "assumptions": [],
+  "authorization": {
+    "external_action": false,
+    "accounts": [],
+    "content_scope": "",
+    "time_scope": "",
+    "budget_limit": null
+  },
+  "handoff": {
+    "owner": "",
+    "deliverables": [],
+    "acceptance_criteria": []
+  }
+}
